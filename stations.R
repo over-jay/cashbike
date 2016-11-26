@@ -11,32 +11,32 @@ df_data  <- fromJSON(json_file, flatten=TRUE)
 # head(df_data)
 df_data<-df_data[-1] # suppression de la timestamp exec
 
-summary(df_data)
-str(df_data)
-head(df_data)
-str(df_data$stationBeanList)
-summary(df_data$stationBeanList)
+# summary(df_data)
+# str(df_data)
+# head(df_data)
+# str(df_data$stationBeanList)
+# summary(df_data$stationBeanList)
 df_stations <- df_data$stationBeanList
-head(df_stations)
+#head(df_stations)
 df_stations<-df_stations[,c(1,2,5,6)]
 
-center <- c((max(df_stations[,4]) + min(df_stations[,4]) )/2,
-(max(df_stations[,3]) + min(df_stations[,3]) )/2)
+# center <- c((max(df_stations[,4]) + min(df_stations[,4]) )/2,
+# (max(df_stations[,3]) + min(df_stations[,3]) )/2)
 
 range<-c(max(df_stations[,4]),min(df_stations[,3]),
   max(df_stations[,3]),min(df_stations[,4]))
 
-map <- get_map(location = center , zoom = 10,source="osm", maptype="roadtype")
-ggmap(map) + geom_point(data = df_stations, aes(x = longitude , y = latitude))
+#map <- get_map(location = center , zoom = 10,source="osm", maptype="roadtype")
+#ggmap(map) + geom_point(data = df_stations, aes(x = longitude , y = latitude))
 
-install.packages("leaflet")
+#install.packages("leaflet")
 require (leaflet)
 
 ml<- leaflet() %>% addTiles() %>%  fitBounds(range[1],range[2],range[4],range[3])
-?addMarkers(clusterOptions = markerClusterOptions())
+#?addMarkers(clusterOptions = markerClusterOptions())
 
-ml<- addCircles(ml, data = df_stations, lat = ~ latitude, lng = ~ longitude, popup = paste(df_stations$id, " - ", df_stations$stationName), clusterOptions = markerClusterOptions())
-ml<- addMarkers(ml, data = df_stations, lat = ~ latitude, lng = ~ longitude, popup = paste(df_stations$id, " - ", df_stations$stationName), clusterOptions = markerClusterOptions())
+#ml<- addCircles(ml, data = df_stations, lat = ~ latitude, lng = ~ longitude, popup = paste(df_stations$id, " - ", df_stations$stationName), clusterOptions = markerClusterOptions())
+ml<- addMarkers(ml, data = df_stations, lat = ~ latitude, lng = ~ longitude, popup = paste(df_stations$id, " DUCON ", df_stations$stationName), clusterOptions = markerClusterOptions())
 
 ml
 
