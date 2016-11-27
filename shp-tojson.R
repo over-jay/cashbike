@@ -206,4 +206,26 @@ browseURL(q.map)
 
 #=> ok , with the districts
 
+###########################
 
+
+##############################
+## now with the neighboorhoods.json file
+##############################
+jsonFile <- "./data/neighboorhoods.json"
+q.dat <- jsonFile
+q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Neighboor",base.map="positron" ,  popup="*")
+# view map in browser
+browseURL(q.map)
+#=> not intersting - points only
+
+
+##############################
+## now with the sidewalkcafe.json file
+##############################
+jsonFile <- "./data/sidewalkcafe.json"
+q.dat <- jsonFile
+q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Neighboor",base.map="positron" ,  popup="*")
+# view map in browser
+browseURL(q.map)
+#=> not intersting - very partial
