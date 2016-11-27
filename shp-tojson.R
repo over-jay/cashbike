@@ -229,3 +229,25 @@ q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Neighboor",base.map="posi
 # view map in browser
 browseURL(q.map)
 #=> not intersting - very partial
+
+
+##############################
+## now with the food-shop.json file
+##############################
+jsonFile <- "./data/food-shop.json"
+q.dat <- jsonFile
+q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Neighboor",base.map="positron" ,  popup="*")
+# view map in browser
+browseURL(q.map)
+#=> not intersting - tax group status
+
+
+##############################
+## now with the mappluto.json file
+##############################
+jsonFile <- "./data/mappluto.json"
+q.dat <- jsonFile
+q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Neighboor",base.map="positron" ,  popup="*")
+# view map in browser
+browseURL(q.map)
+#=> not intersting - tax group status
