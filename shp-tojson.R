@@ -50,9 +50,16 @@
 #   addGeoJSON(jsonFile)
 # 
 # 
-# leaflet() %>% 
-#   addTiles(urlTemplate = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>') %>% 
-#   setView(-73.97125, 40.78306, zoom=10) 
+install.packages("leaflet")
+install.packages("leaflet")
+library(leaflet)
+install.packages("magrittr")
+library(rgdal)
+library(magrittr)
+leaflet() %>% 
+   addTiles(urlTemplate = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>') %>% 
+   setView(-73.97125, 40.78306, zoom=10) 
+
 # 
 # library(rgdal)
 # "GeoJSON" %in% ogrDrivers()$name
@@ -76,6 +83,9 @@
 # browseURL(q.map)
 # q.dat
 
+install.packages("leafletR")
+library(leafletR)
+
 ##############################
 ## now with the census file
 ##############################
@@ -84,6 +94,7 @@ q.dat <- jsonFile
 q.map <- leaflet(data=q.dat, dest=tempdir(), title="NY Census",base.map="positron" ,  popup="*")
 # view map in browser
 browseURL(q.map)
+
 #=> not intersting - staten is. only
 ##############################
 ## now with the census file
@@ -118,7 +129,7 @@ q.dat <- paste(direct,"/",filjson, sep = "")
 # make style based on quake magnitude
 #q.style <- styleGrad(prop="mag", breaks=seq(4, 6.5, by=0.5),     style.val=rev(heat.colors(5)), leg="Richter Magnitude", fill.alpha=0.7, rad=8)
 # create map
-q.map <- leaflet(data=q.dat, dest=tempdir(), title=paste (direct, "- NY Boundaries"),base.map="positron" ,  popup="*")
+q.map <- leaflet(data=q.dat, dest=tempdir(), title=paste (filjson, "- NY Boundaries"),base.map="positron" ,  popup="*")
 # view map in browser
 browseURL(q.map)
 
