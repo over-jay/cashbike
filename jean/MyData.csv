@@ -1,0 +1,1435 @@
+"","type","name","lat","lon"
+"1","station","W 52 St & 11 Ave",40.76727216,-73.99392888
+"2","station","Franklin St & W Broadway",40.71911552,-74.00666661
+"3","station","St James Pl & Pearl St",40.71117416,-74.00016545
+"4","station","Atlantic Ave & Fort Greene Pl",40.68382604,-73.97632328
+"5","station","W 17 St & 8 Ave",40.74177603,-74.00149746
+"6","station","Park Ave & St Edwards St",40.69608941,-73.97803415
+"7","station","Lexington Ave & Classon Ave",40.68676793,-73.95928168
+"8","station","Barrow St & Hudson St",40.73172428,-74.00674436
+"9","station","MacDougal St & Prince St",40.72710258,-74.00297088
+"10","station","E 56 St & Madison Ave",40.761628,-73.972924
+"11","station","Clinton St & Joralemon St",40.69239502,-73.99337909
+"12","station","Nassau St & Navy St",40.69839895,-73.98068914
+"13","station","Hudson St & Reade St",40.71625008,-74.0091059
+"14","station","Greenwich St & Warren St",40.71542197,-74.01121978
+"15","station","E 2 St & Avenue C",40.7208736,-73.98085795
+"16","station","Cleveland Pl & Spring St",40.722103786686,-73.997249007225
+"17","station","Warren St & Church St",40.71473993,-74.00910627
+"18","station","E 40 St & 5 Ave",40.752062307,-73.9816324043
+"19","station","Henry St & Atlantic Ave",40.69089272,-73.99612349
+"20","station","LaGuardia Pl & W 3 St",40.72917025,-73.99810231
+"21","station","E 47 St & 2 Ave",40.75323098,-73.97032517
+"22","station","E 39 St & 3 Ave",40.7489006,-73.97604882
+"23","station","W 18 St & 6 Ave",40.73971301,-73.99456405
+"24","station","Broadway & W 49 St",40.7606832709659,-73.9845272898674
+"25","station","E 25 St & 1 Ave",40.7381765,-73.97738662
+"26","station","Liberty St & Broadway",40.70905623,-74.01043382
+"27","station","W 16 St & The High Line",40.74334935,-74.00681753
+"28","station","Columbia Heights & Cranberry St",40.70037867,-73.99548059
+"29","station","Old Fulton St",40.70277159,-73.99383605
+"30","station","W 13 St & 7 Ave",40.73781509,-73.99994661
+"31","station","Spruce St & Nassau St",40.71146364,-74.00552427
+"32","station","W 14 St & The High Line",40.74195138,-74.00803013
+"33","station","E 48 St & 3 Ave",40.7546011026,-73.971878855
+"34","station","Great Jones St",40.72743423,-73.99379025
+"35","station","Cadman Plaza E & Tillary St",40.69597683,-73.99014892
+"36","station","St Marks Pl & 2 Ave",40.7284186,-73.98713956
+"37","station","E 11 St & 2 Ave",40.73047309,-73.98672378
+"38","station","Bank St & Washington St",40.7361967,-74.00859207
+"39","station","Willoughby St & Fleet St",40.69196566,-73.9813018
+"40","station","DeKalb Ave & S Portland Ave",40.68981035,-73.97493121
+"41","station","Carlton Ave & Flushing Ave",40.697787,-73.973736
+"42","station","Fulton St & Rockwell Pl",40.688226,-73.979382
+"43","station","Willoughby Ave & Hall St",40.69196035,-73.96536851
+"44","station","Myrtle Ave & St Edwards St",40.69327018,-73.97703874
+"45","station","Perry St & Bleecker St",40.73535398,-74.00483091
+"46","station","Laight St & Hudson St",40.72185379,-74.00771779
+"47","station","Harrison St & Hudson St",40.71870987,-74.0090009
+"48","station","Mott St & Prince St",40.72317958,-73.99480012
+"49","station","MacDougal St & Washington Sq",40.73226398,-73.99852205
+"50","station","W 13 St & 5 Ave",40.73543934,-73.99453948
+"51","station","W 11 St & 6 Ave",40.73532427,-73.99800419
+"52","station","Lispenard St & Broadway",40.71939226,-74.00247214
+"53","station","DeKalb Ave & Vanderbilt Ave",40.68940747,-73.96885458
+"54","station","South St & Whitehall St",40.70122128,-74.01234218
+"55","station","Broad St & Bridge St",40.70365182,-74.01167797
+"56","station","Johnson St & Gold St",40.69474881,-73.98362464
+"57","station","Washington Park",40.6917823,-73.9737299
+"58","station","Maiden Ln & Pearl St",40.70706456,-74.00731853
+"59","station","Stanton St & Chrystie St",40.72229346,-73.99147535
+"60","station","Avenue D & E 8 St",40.72368361,-73.97574813
+"61","station","Broadway & W 36 St",40.75097711,-73.98765428
+"62","station","Howard St & Centre St",40.71910537,-73.99973337
+"63","station","Adelphi St & Myrtle Ave",40.69308257,-73.97178913
+"64","station","Lafayette Ave & Fort Greene Pl",40.68691865,-73.976682
+"65","station","Washington Ave & Greene Ave",40.68650065,-73.96563307
+"66","station","Duane St & Greenwich St",40.71748752,-74.0104554
+"67","station","Concord St & Bridge St",40.69766564,-73.98476437
+"68","station","Peck Slip & Front St",40.707873,-74.00167
+"69","station","E 10 St & 5 Ave",40.73331967,-73.99510132
+"70","station","Grand Army Plaza & Central Park S",40.7643971,-73.97371465
+"71","station","Kent Ave & S 11 St",40.7076449441757,-73.9684152603149
+"72","station","Greenwich Ave & 8 Ave",40.7390169121,-74.0026376103
+"73","station","Broadway & E 14 St",40.73454567,-73.99074142
+"74","station","Monroe St & Classon Ave",40.6845683,-73.95881081
+"75","station","Madison St & Montgomery St",40.713126,-73.984844
+"76","station","Lafayette St & E 8 St",40.73028666,-73.9907647
+"77","station","Pike St & E Broadway",40.71406667,-73.99293911
+"78","station","Division St & Bowery",40.71413089,-73.9970468
+"79","station","E 15 St & 3 Ave",40.734232,-73.986923
+"80","station","3 Ave & Schermerhorn St",40.68683208,-73.9796772
+"81","station","E 2 St & Avenue B",40.72217444,-73.98368779
+"82","station","Avenue D & E 3 St",40.72082834,-73.97793172
+"83","station","Mercer St & Spring St",40.72362738,-73.99949601
+"84","station","Broadway & Battery Pl",40.70463334,-74.01361706
+"85","station","E 58 St & 3 Ave",40.76095756,-73.96724467
+"86","station","Cliff St & Fulton St",40.70823502,-74.00530063
+"87","station","Canal St & Rutgers St",40.71427487,-73.98990025
+"88","station","St James Pl & Oliver St",40.71307916,-73.99851193
+"89","station","Murray St & West St",40.7149787,-74.013012
+"90","station","State St & Smith St",40.68926942,-73.98912867
+"91","station","Norfolk St & Broome St",40.7172274,-73.98802084
+"92","station","Allen St & Stanton St",40.722055,-73.989111
+"93","station","Washington Ave & Park Ave",40.69610226,-73.96751037
+"94","station","South St & Gouverneur Ln",40.70355377,-74.00670227
+"95","station","Fulton St & William St",40.70955958,-74.00653609
+"96","station","E 6 St & Avenue B",40.72453734,-73.98185424
+"97","station","Fulton St & Broadway",40.711066,-74.009447
+"98","station","Leonard St & Church St",40.717571,-74.005549
+"99","station","Cadman Plaza E & Red Cross Pl",40.69991755,-73.98971773
+"100","station","Clinton St & Tillary St",40.696192,-73.991218
+"101","station","Lawrence St & Willoughby St",40.69236178,-73.98631746
+"102","station","DeKalb Ave & Hudson Ave",40.689888,-73.981013
+"103","station","E 19 St & 3 Ave",40.73624527,-73.98473765
+"104","station","E 11 St & 1 Ave",40.72953837,-73.98426726
+"105","station","Vesey Pl & River Terrace",40.7153379,-74.01658354
+"106","station","Watts St & Greenwich St",40.72405549,-74.00965965
+"107","station","Reade St & Broadway",40.71450451,-74.00562789
+"108","station","Pike St & Monroe St",40.71173107,-73.99193043
+"109","station","Cherry St",40.71219906,-73.97948148
+"110","station","W 20 St & 7 Ave",40.74238787,-73.99726235
+"111","station","Washington Pl & Broadway",40.72903917,-73.99404649
+"112","station","Sullivan St & Washington Sq",40.73047747,-73.99906065
+"113","station","Old Slip & Front St",40.7037992,-74.00838676
+"114","station","Avenue D & E 12 St",40.72580614,-73.97422494
+"115","station","Madison St & Clinton St",40.71269042,-73.98776323
+"116","station","Stanton St & Mangin St",40.71782143,-73.97628939
+"117","station","Columbia St & Rivington St",40.71739973,-73.98016555
+"118","station","Clinton Ave & Flushing Ave",40.69794,-73.96986848
+"119","station","Monroe St & Bedford Ave",40.6851443,-73.95380904
+"120","station","W 13 St & 6 Ave",40.73649403,-73.99704374
+"121","station","Bank St & Hudson St",40.73652889,-74.00618026
+"122","station","Greenwich St & W Houston St",40.728846,-74.008591
+"123","station","W Broadway & Spring St",40.72490985,-74.00154702
+"124","station","Rivington St & Ridge St",40.71850211,-73.98329859
+"125","station","Clinton St & Grand St",40.71559509,-73.9870295
+"126","station","Front St & Maiden Ln",40.70530954,-74.00612572
+"127","station","W 56 St & 6 Ave",40.76340613,-73.97722479
+"128","station","S Portland Ave & Hanson Pl",40.68539567,-73.97431458
+"129","station","Emerson Pl & Myrtle Ave",40.69363137,-73.96223558
+"130","station","Bayard St & Baxter St",40.71602118,-73.99974372
+"131","station","Bialystoker Pl & Delancey St",40.71622644,-73.98261206
+"132","station","E 11 St & Broadway",40.73261787,-73.99158043
+"133","station","Christopher St & Greenwich St",40.73291553,-74.00711384
+"134","station","E 47 St & Park Ave",40.75510267,-73.97498696
+"135","station","William St & Pine St",40.70717936,-74.00887308
+"136","station","Allen St & Hester St",40.71605866,-73.99190759
+"137","station","Broadway & W 37 St",40.75172632,-73.98753523
+"138","station","West Thames St",40.70834698,-74.01713445
+"139","station","Lafayette Ave & Classon Ave",40.68900443,-73.96023854
+"140","station","Fulton St & Grand Ave",40.68223166,-73.9614583
+"141","station","Clinton Ave & Myrtle Ave",40.693261,-73.968896
+"142","station","E 53 St & Lexington Ave",40.75828065,-73.97069431
+"143","station","Carmine St & 6 Ave",40.73038599,-74.00214988
+"144","station","Washington Pl & 6 Ave",40.73224119,-74.00026394
+"145","station","Franklin Ave & Myrtle Ave",40.694528,-73.958089
+"146","station","Willoughby Ave & Walworth St",40.69331716,-73.95381995
+"147","station","John St & William St",40.70862144,-74.00722156
+"148","station","6 Ave & Canal St",40.72243797,-74.00566443
+"149","station","W 31 St & 7 Ave",40.749156,-73.9916
+"150","station","W 4 St & 7 Ave S",40.73401143,-74.00293877
+"151","station","University Pl & E 14 St",40.73492695,-73.99200509
+"152","station","Greenwich Ave & Charles St",40.735238,-74.000271
+"153","station","Fulton St & Washington Ave",40.683048,-73.964915
+"154","station","E 55 St & 2 Ave",40.75797322,-73.96603308
+"155","station","Centre St & Worth St",40.71494807,-74.00234482
+"156","station","Centre St & Chambers St",40.71273266,-74.0046073
+"157","station","W 26 St & 10 Ave",40.749717753,-74.002950346
+"158","station","Broadway & Berry St",40.71044554,-73.96525063
+"159","station","Duffield St & Willoughby St",40.69221589,-73.9842844
+"160","station","Clark St & Henry St",40.69760127,-73.99344559
+"161","station","Jay St & Tech Pl",40.695065,-73.987167
+"162","station","E 5 St & Avenue C",40.72299208,-73.97995466
+"163","station","E 9 St & Avenue C",40.72521311,-73.97768752
+"164","station","Bond St & Schermerhorn St",40.68807003,-73.98410637
+"165","station","Lefferts Pl & Franklin Ave",40.680342423,-73.9557689392
+"166","station","Fulton St & Clermont Ave",40.68415748,-73.96922273
+"167","station","Atlantic Ave & Furman St",40.69165183,-73.9999786
+"168","station","Lafayette Ave & St James Pl",40.68851534,-73.9647628
+"169","station","Pitt St & Stanton St",40.71926081,-73.98178024
+"170","station","Allen St & Rivington St",40.72019576,-73.98997825
+"171","station","Broadway & E 22 St",40.7403432,-73.98955109
+"172","station","Washington St & Gansevoort St",40.739323,-74.008119
+"173","station","Hicks St & Montague St",40.69512845,-73.99595065
+"174","station","Henry St & Poplar St",40.700469,-73.991454
+"175","station","Market St & Cherry St",40.71076228,-73.99400398
+"176","station","DeKalb Ave & Skillman St",40.6906495,-73.95643107
+"177","station","Suffolk St & Stanton St",40.72066442,-73.98517977
+"178","station","E 6 St & Avenue D",40.72228087,-73.97668709
+"179","station","Forsyth St & Canal St",40.7158155,-73.99422366
+"180","station","Pearl St & Anchorage Pl",40.70281858,-73.98765762
+"181","station","Pearl St & Hanover Square",40.7047177,-74.00926027
+"182","station","Cumberland St & Lafayette Ave",40.68753406,-73.97265183
+"183","station","Barclay St & Church St",40.71291224,-74.01020234
+"184","station","Front St & Gold St",40.70224,-73.982578
+"185","station","Carlton Ave & Park Ave",40.69580705,-73.97355569
+"186","station","Clermont Ave & Lafayette Ave",40.68764484,-73.96968902
+"187","station","Clermont Ave & Park Ave",40.69573398,-73.97129668
+"188","station","W 59 St & 10 Ave",40.770513,-73.988038
+"189","station","W 54 St & 9 Ave",40.76584941,-73.98690506
+"190","station","West St & Chambers St",40.71754834,-74.01322069
+"191","station","Bus Slip & State St",40.701907,-74.013942
+"192","station","E 3 St & 1 Ave",40.72467721,-73.98783413
+"193","station","York St & Jay St",40.7014851,-73.98656928
+"194","station","E 7 St & Avenue A",40.72621788,-73.98379855
+"195","station","E 13 St & Avenue A",40.72955361,-73.98057249
+"196","station","9 Ave & W 18 St",40.74317449,-74.00366443
+"197","station","W 21 St & 6 Ave",40.74173969,-73.99415556
+"198","station","Hancock St & Bedford Ave",40.68216564,-73.95399026
+"199","station","Macon St & Nostrand Ave",40.6809833854,-73.9500479759
+"200","station","St Marks Pl & 1 Ave",40.72779126,-73.98564945
+"201","station","E 4 St & 2 Ave",40.7262807,-73.98978041
+"202","station","E 45 St & 3 Ave",40.75255434,-73.97282625
+"203","station","E 52 St & 2 Ave",40.756014,-73.967416
+"204","station","W 27 St & 7 Ave",40.746647,-73.993915
+"205","station","Bedford Ave & S 9 St",40.70853074,-73.96408963
+"206","station","Broadway & W 24 St",40.7423543,-73.98915076
+"207","station","E 10 St & Avenue A",40.72740794,-73.98142006
+"208","station","W 24 St & 7 Ave",40.74487634,-73.99529885
+"209","station","8 Ave & W 52 St",40.76370739,-73.9851615
+"210","station","W 37 St & 10 Ave",40.75660359,-73.9979009
+"211","station","W 52 St & 9 Ave",40.76461837,-73.98789473
+"212","station","W 49 St & 8 Ave",40.76227205,-73.98788205
+"213","station","W 22 St & 8 Ave",40.74475148,-73.99915362
+"214","station","E 51 St & 1 Ave",40.75455731,-73.96592976
+"215","station","1 Ave & E 44 St",40.75001986,-73.96905301
+"216","station","E 53 St & Madison Ave",40.7597108,-73.97402311
+"217","station","Broadway & W 58 St",40.76695317,-73.98169333
+"218","station","11 Ave & W 27 St",40.751396,-74.005226
+"219","station","W 20 St & 11 Ave",40.746745,-74.007756
+"220","station","S 4 St & Wythe Ave",40.71285887,-73.96590294
+"221","station","E 20 St & 2 Ave",40.73587678,-73.98205027
+"222","station","W 22 St & 10 Ave",40.74691959,-74.00451887
+"223","station","Broadway & W 41 St",40.75513557,-73.98658032
+"224","station","W 25 St & 6 Ave",40.74395411,-73.99144871
+"225","station","Dean St & 4 Ave",40.68312489,-73.97895137
+"226","station","Broadway & W 55 St",40.7652654,-73.98192338
+"227","station","Broadway & W 53 St",40.76344058,-73.98268129
+"228","station","W 20 St & 8 Ave",40.74345335,-74.00004031
+"229","station","Grand St & Havemeyer St",40.71286844,-73.95698119
+"230","station","E 32 St & Park Ave",40.7457121,-73.98194829
+"231","station","Rivington St & Chrystie St",40.72110063,-73.9919254
+"232","station","5 Ave & E 29 St",40.7451677,-73.98683077
+"233","station","E 16 St & Irving Pl",40.73524276,-73.98758561
+"234","station","E 31 St & 3 Ave",40.74394314,-73.97966069
+"235","station","W 41 St & 8 Ave",40.75640548,-73.9900262
+"236","station","11 Ave & W 41 St",40.76030096,-73.99884222
+"237","station","9 Ave & W 45 St",40.76019252,-73.9912551
+"238","station","W 53 St & 10 Ave",40.76669671,-73.99061728
+"239","station","S 3 St & Bedford Ave",40.71260486,-73.96264403
+"240","station","W 15 St & 7 Ave",40.73935542,-73.99931783
+"241","station","E 12 St & 3 Ave",40.73223272,-73.98889957
+"242","station","W 44 St & 5 Ave",40.75500254,-73.98014437
+"243","station","W 37 St & 5 Ave",40.75038009,-73.98338988
+"244","station","Broadway & W 29 St",40.7462009,-73.98855723
+"245","station","E 20 St & FDR Drive",40.73314259,-73.97573881
+"246","station","W 39 St & 9 Ave",40.75645824,-73.99372222
+"247","station","8 Ave & W 33 St",40.751551,-73.993934
+"248","station","E 24 St & Park Ave S",40.74096374,-73.98602213
+"249","station","W 33 St & 7 Ave",40.75019995,-73.99093085
+"250","station","W 45 St & 6 Ave",40.7568001,-73.98291153
+"251","station","W 26 St & 8 Ave",40.74734825,-73.99723551
+"252","station","W 47 St & 10 Ave",40.76269882,-73.99301222
+"253","station","E 16 St & 5 Ave",40.73726186,-73.99238967
+"254","station","E 17 St & Broadway",40.73704984,-73.99009296
+"255","station","Broadway & W 32 St",40.74854862,-73.98808416
+"256","station","Broadway & W 60 St",40.76915505,-73.98191841
+"257","station","Broadway & W 51 St",40.76228826,-73.98336183
+"258","station","FDR Drive & E 35 St",40.744219,-73.97121214
+"259","station","Henry St & Grand St",40.714215,-73.981346
+"260","station","E 20 St & Park Ave",40.73827428,-73.98751968
+"261","station","1 Ave & E 16 St",40.73221853,-73.98165557
+"262","station","6 Ave & W 33 St",40.74901271,-73.98848395
+"263","station","E 25 St & 2 Ave",40.73912601,-73.97973776
+"264","station","W 46 St & 11 Ave",40.76341379,-73.99667444
+"265","station","9 Ave & W 22 St",40.7454973,-74.00197139
+"266","station","W 51 St & 6 Ave",40.7606597,-73.98042047
+"267","station","E 14 St & Avenue B",40.72938685,-73.97772429
+"268","station","W 56 St & 10 Ave",40.768254,-73.988639
+"269","station","12 Ave & W 40 St",40.76087502,-74.00277668
+"270","station","W 43 St & 10 Ave",40.76009437,-73.99461843
+"271","station","E 47 St & 1 Ave",40.75206862,-73.96784384
+"272","station","Pershing Square South",40.751581,-73.97791
+"273","station","E 39 St & 2 Ave",40.74780373,-73.9734419
+"274","station","Pershing Square North",40.751873,-73.977706
+"275","station","W 52 St & 5 Ave",40.75992262,-73.97648516
+"276","station","E 51 St & Lexington Ave",40.75714758,-73.97207836
+"277","station","W 38 St & 8 Ave",40.75466591,-73.99138152
+"278","station","W 43 St & 6 Ave",40.75527307,-73.98316936
+"279","station","W 34 St & 11 Ave",40.75594159,-74.0021163
+"280","station","E 33 St & 5 Ave",40.74765947,-73.98490707
+"281","station","E 33 St & 2 Ave",40.744023,-73.976056
+"282","station","2 Ave & E 31 St",40.74290902,-73.97706058
+"283","station","W 42 St & 8 Ave",40.7575699,-73.99098507
+"284","station","11 Ave & W 59 St",40.771522,-73.990541
+"285","station","Forsyth St & Broome St",40.71893904,-73.99266288
+"286","station","S 5 Pl & S 4 St",40.710451,-73.960876
+"287","station","Broadway & W 39 St",40.75299641,-73.98721619
+"288","station","Water - Whitehall Plaza",40.70255065,-74.0127234
+"289","station","1 Ave & E 30 St",40.74144387,-73.97536082
+"290","station","Lexington Ave & E 24 St",40.74025878,-73.98409214
+"291","station","Metropolitan Ave & Bedford Ave",40.71534825,-73.96024116
+"292","station","Lexington Ave & E 29 St",40.7431155537649,-73.9821535348892
+"293","station","E 23 St & 1 Ave",40.736502,-73.97809472
+"294","station","E 30 St & Park Ave S",40.74444921,-73.98303529
+"295","station","Front St & Washington St",40.70255088,-73.98940236
+"296","station","Sands St & Navy St",40.699773,-73.979927
+"297","station","Wythe Ave & Metropolitan Ave",40.716887,-73.963198
+"298","station","1 Ave & E 18 St",40.7338121919663,-73.9805442094803
+"299","station","6 Ave & Broome St",40.724399,-74.004704
+"300","station","Railroad Ave & Kay Ave",40.70531194,-73.97100056
+"301","station","Central Park S & 6 Ave",40.76590936,-73.97634151
+"302","station","Little West St & 1 Pl",40.70569254,-74.01677685
+"303","station","Catherine St & Monroe St",40.71117444,-73.99682619
+"304","station","Grand St & Greene St",40.72165481,-74.00234737
+"305","station","E 27 St & 1 Ave",40.739445,-73.976806
+"306","station","E 43 St & 2 Ave",40.75022392,-73.97121414
+"307","station","W 45 St & 8 Ave",40.75929124,-73.98859651
+"308","station","E 60 St & York Ave",40.759107,-73.959223
+"309","station","E 55 St & Lexington Ave",40.75968085,-73.97031366
+"310","station","South End Ave & Liberty St",40.711512,-74.015756
+"311","station","Kent Ave & N 7 St",40.7203677529846,-73.9616507291794
+"312","station","Kingston Ave & Herkimer St",40.67890679,-73.94142771
+"313","station","Fulton St & Utica Ave",40.6794268,-73.9298911
+"314","station","Lewis Ave & Decatur St",40.6814598,-73.934903
+"315","station","Albany Ave & Fulton St",40.6800105,-73.938475
+"316","station","Marcus Garvey Blvd & Macon St",40.682601,-73.938037
+"317","station","Halsey St & Tompkins Ave",40.6823687,-73.944118
+"318","station","Putnam Ave & Nostrand Ave",40.68402,-73.94977
+"319","station","Cambridge Pl & Gates Ave",40.68488,-73.96304
+"320","station","Putnam Ave & Throop Ave",40.6851532,-73.94111
+"321","station","Lewis Ave & Madison St",40.686312,-73.935775
+"322","station","Marcy Ave & Lafayette Ave",40.6900815,-73.947915
+"323","station","Greene Ave & Throop Ave",40.6894932,-73.942061
+"324","station","Greene Ave & Nostrand Ave",40.6883337,-73.950916
+"325","station","Kosciuszko St & Nostrand Ave",40.69072549,-73.95133465
+"326","station","Kosciuszko St & Tompkins Ave",40.69128258,-73.9452416
+"327","station","Lewis Ave & Kosciuszko St",40.69237074,-73.93705428
+"328","station","Pulaski St & Marcus Garvey Blvd",40.6933982,-73.939877
+"329","station","Willoughby Ave & Tompkins Ave",40.69425403,-73.94626915
+"330","station","Throop Ave & Myrtle Ave",40.69622937,-73.94371094
+"331","station","Myrtle Ave & Marcy Ave",40.69539817,-73.94954908
+"332","station","Nostrand Ave & Myrtle Ave",40.69527008,-73.95238108
+"333","station","Myrtle Ave & Lewis Ave",40.69681963,-73.93756926
+"334","station","Union Ave & Wallabout St",40.70029511,-73.95032283
+"335","station","Tompkins Ave & Hopkins St",40.69957608,-73.94708417
+"336","station","Broadway & Whipple St",40.7016657,-73.9437303
+"337","station","Humboldt St & Varet St",40.7031724,-73.940636
+"338","station","Lorimer St & Broadway",40.70411791,-73.94818595
+"339","station","McKibbin St & Manhattan Ave",40.70510918,-73.94407279
+"340","station","Boerum St & Broadway",40.70538077,-73.94976519
+"341","station","Leonard St & Boerum St",40.70583339,-73.94644578
+"342","station","Division Ave & Hooper St",40.70691254,-73.95441667
+"343","station","Montrose Ave & Bushwick Ave",40.70767788,-73.94016171
+"344","station","Division Ave & Marcy Ave",40.70708701,-73.95796783
+"345","station","Scholes St & Manhattan Ave",40.70870368,-73.9448625
+"346","station","Stagg St & Union Ave",40.70877084,-73.95095259
+"347","station","Broadway & Roebling St",40.70925562,-73.95982218
+"348","station","Leonard St & Grand St",40.71103537,-73.94714303
+"349","station","S 4 St & Rodney St",40.70934,-73.95608
+"350","station","Graham Ave & Grand St",40.711863,-73.944024
+"351","station","Hope St & Union Ave",40.71167351,-73.95141312
+"352","station","Bushwick Ave & Powers St",40.71247661,-73.94100005
+"353","station","Devoe St & Leonard St",40.71348658,-73.94792458
+"354","station","Roebling St & N 4 St",40.71469,-73.95739
+"355","station","Graham Ave & Conselyea St",40.715143,-73.944507
+"356","station","Metropolitan Ave & Meeker Ave",40.71413311,-73.95234386
+"357","station","Union Ave & Jackson St",40.7160751,-73.952029
+"358","station","Leonard St & Meeker Ave",40.7173184038558,-73.9482021331787
+"359","station","N 8 St & Driggs Ave",40.71774592,-73.95600096
+"360","station","Frost St & Meeker St",40.71764,-73.94882
+"361","station","Berry St & N 8 St",40.7190095,-73.95852515
+"362","station","N 6 St & Bedford Ave",40.71745169,-73.95850939
+"363","station","Graham Ave & Withers St",40.7169811,-73.94485918
+"364","station","Graham Ave & Herbert St",40.71929301,-73.94500379
+"365","station","Union Ave & N 12 St",40.71924,-73.95242
+"366","station","Leonard St & Bayard St",40.71928,-73.94861
+"367","station","Leonard St & Manhattan Ave",40.721522403393,-73.948982656002
+"368","station","Nassau Ave & Newell St",40.7248125644002,-73.947526216507
+"369","station","N 12 St & Bedford Ave",40.72079821,-73.95484712
+"370","station","Driggs Ave & Lorimer St",40.72179134,-73.9504154
+"371","station","N 11 St & Wythe Ave",40.72153267,-73.95782357
+"372","station","N 15 St & Wythe Ave",40.724055,-73.955736
+"373","station","Driggs Ave & N Henry St",40.72325,-73.94308
+"374","station","Bedford Ave & Nassau Ave",40.72311651,-73.95212324
+"375","station","Nassau Ave & Russell St",40.72557,-73.94434
+"376","station","Banker St & Meserole Ave",40.72606,-73.95621
+"377","station","Meserole Ave & Manhattan Ave",40.72708584,-73.95299117
+"378","station","Norman Ave & Leonard St",40.7258483,-73.95064893
+"379","station","Milton St & Franklin St",40.72906,-73.95779
+"380","station","Greenpoint Ave & Manhattan Ave",40.73026,-73.95394
+"381","station","India St & East River",40.73165141,-73.96161892
+"382","station","India St & Manhattan Ave",40.73232194,-73.9550858
+"383","station","Huron St & Franklin St",40.73266,-73.95826
+"384","station","Franklin St & Dupont St",40.73564,-73.95866
+"385","station","McGuinness Blvd & Eagle St",40.73555,-73.95284
+"386","station","Vernon Blvd & 50 Ave",40.74232744,-73.95411749
+"387","station","Center Blvd & Borden Ave",40.74161,-73.96044
+"388","station","Jackson Ave & 46 Rd",40.74524768,-73.94733276
+"389","station","48 Ave & 5 St",40.7443632870669,-73.9558732509613
+"390","station","31 St & Thomson Ave",40.74469738,-73.93540375
+"391","station","46 Ave & 5 St",40.74731,-73.95451
+"392","station","45 Rd & 11 St",40.74708586,-73.94977234
+"393","station","44 Dr & Jackson Ave",40.74718234,-73.9432635
+"394","station","9 St & 44 Rd",40.74966,-73.9521
+"395","station","21 St & 43 Ave",40.75052534,-73.94594845
+"396","station","Queens Plaza North & Crescent St",40.75110165,-73.94073717
+"397","station","E 68 St & 3 Ave",40.7671284034954,-73.9622461795807
+"398","station","E 59 St & Madison Ave",40.76350532,-73.97109243
+"399","station","3 Ave & E 62 St",40.76312584,-73.96526895
+"400","station","E 75 St & 3 Ave",40.77112927,-73.95772297
+"401","station","5 Ave & E 73 St",40.77282817,-73.96685276
+"402","station","E 72 St & Park Ave",40.7711828754066,-73.9640942215919
+"403","station","1 Ave & E 78 St",40.77140426,-73.9535166
+"404","station","1 Ave & E 68 St",40.76500525,-73.95818491
+"405","station","1 Ave & E 62 St",40.7612274,-73.96094022
+"406","station","5 Ave & E 78 St",40.7768286343997,-73.9638876914978
+"407","station","E 81 St & Park Ave",40.77677702,-73.9590097
+"408","station","E 84 St & Park Ave",40.77862688,-73.95772073
+"409","station","E 81 St & 3 Ave",40.77573034,-73.9567526
+"410","station","E 85 St & 3 Ave",40.77801203,-73.95407149
+"411","station","E 84 St & 1 Ave",40.77565541,-73.95068615
+"412","station","E 85 St & York Ave",40.77536905,-73.94803392
+"413","station","E 81 St & York Ave",40.7728384,-73.94989233
+"414","station","3 Ave & E 71 St",40.76873687,-73.96119945
+"415","station","E 71 St & 2 Ave",40.7681754674225,-73.9591026306152
+"416","station","Lexington Ave & E 63 St",40.76440023,-73.96648977
+"417","station","E 72 St & York Ave",40.76663814,-73.95348296
+"418","station","East End Ave & E 86 St",40.77518615,-73.94446054
+"419","station","W 63 St & Broadway",40.77163851,-73.98261428
+"420","station","W 67 St & Broadway",40.77492513,-73.98266566
+"421","station","Central Park West & W 76 St",40.77896784,-73.97374737
+"422","station","W 76 St & Columbus Ave",40.7801839724239,-73.9772853255272
+"423","station","W 78 St & Broadway",40.78339981,-73.98093133
+"424","station","Central Park West & W 68 St",40.7734066,-73.97782542
+"425","station","Columbus Ave & W 72 St",40.7770575,-73.97898475
+"426","station","Central Park West & W 72 St",40.7757937668367,-73.9762057363987
+"427","station","Riverside Dr & W 72 St",40.7805779901033,-73.9856243133545
+"428","station","Amsterdam Ave & W 73 St",40.7796680900731,-73.9809304475784
+"429","station","Central Park West & W 85 St",40.78472675,-73.96961715
+"430","station","Riverside Dr & W 82 St",40.78720869,-73.98128127
+"431","station","W 84 St & Columbus Ave",40.78499979,-73.97283406
+"432","station","Amsterdam Ave & W 82 St",40.78524672,-73.97667321
+"433","station","W 74 St & Columbus Ave",40.7785669,-73.97754961
+"434","station","Riverside Blvd & W 67 St",40.777507027548,-73.9888858795166
+"435","station","W 70 St & Amsterdam Ave",40.77748046,-73.98288594
+"436","station","W 64 St & West End Ave",40.77452835,-73.98753759
+"437","station","W 84 St & Broadway",40.7867947,-73.977112
+"438","station","Riverside Dr & W 78 St",40.78414472,-73.98362492
+"439","station","Park Ave & Marcus Garvey Blvd",40.698617,-73.941342
+"440","station","Brooklyn Bridge Park - Pier 2",40.69878,-73.99712
+"441","station","Exchange Place",40.7162469,-74.0334588
+"442","station","Paulus Hook",40.7141454,-74.0335519
+"443","station","City Hall",40.7177325,-74.043845
+"444","station","Grove St PATH",40.7194610944355,-74.0429431200027
+"445","station","Warren St",40.7211236,-74.03805095
+"446","station","NJCU",40.7101087,-74.0858489
+"447","station","West Side Light Rail",40.714402,-74.0887723
+"448","station","Garfield Ave Station",40.7104670233797,-74.0700387954712
+"449","station","Union St",40.7182113,-74.0836394
+"450","station","Liberty Light Rail",40.7112423,-74.0557013
+"451","station","Lincoln Park",40.7246050998869,-74.0784059464931
+"452","station","McGinley Square",40.7256033,-74.06763
+"453","station","Sip Ave",40.7309459,-74.0638906
+"454","station","Riverview Park",40.7443187,-74.0439909
+"455","station","North St",40.752559,-74.044725
+"456","station","Heights Elevator",40.7487159453802,-74.0404433012009
+"457","station","Newport Pkwy",40.7287448,-74.0321082
+"458","station","MLK Light Rail",40.7111305,-74.0788855
+"459","station","Dey St",40.737711,-74.066921
+"460","station","Newport PATH",40.7272235,-74.0337589
+"461","station","Hamilton Park",40.727595966,-74.044247311
+"462","station","JC Medical Center",40.7165397809919,-74.0496379137039
+"463","station","Hilltop",40.7311689,-74.0575736
+"464","station","Oakland Ave",40.7376037,-74.0524783
+"465","station","Brunswick St",40.7241765,-74.0506564
+"466","station","Pershing Field",40.742677141,-74.051788633
+"467","station","Newark Ave",40.72152515,-74.046304543
+"468","station","Christ Hospital",40.734785818,-74.050443636
+"469","station","Van Vorst Park",40.71848892,-74.047726625
+"470","station","Essex Light Rail",40.7127742,-74.0364857
+"471","station","Central Ave",40.7467299,-74.0492509
+"472","station","Columbia Park",40.6970299,-74.0969366
+"473","station","Bayside Park",40.698650544,-74.082079678
+"474","station","5 Corners Library",40.7349610200095,-74.0595030784607
+"475","station","47 Ave & 31 St",40.743,-73.93561
+"476","station","E 55 St & 3 Ave",40.7589965596051,-73.9686539769173
+"477","station","W 13 St & Hudson St",40.7399735410341,-74.0051387250423
+"478","station","Baldwin at Montgomery",40.7236589,-74.0641943
+"479","station","W 82 St & Central Park West",40.78275,-73.97137
+"480","station","Penn Station Valet",40.7512835969623,-73.9969244599342
+"481","station","E 67 St & Park Ave",40.7678008014813,-73.9659208059311
+"482","station","Bond St & Fulton St",40.6896218879033,-73.9830426871777
+"483","station","E 48 St & 5 Ave",40.7572456791173,-73.978059142828
+"484","station","E 41 St & Madison Ave",40.752165280622,-73.9799219369888
+"485","station","W 42 St & Dyer Ave",40.7589848139963,-73.9937996864319
+"486","station","21 St & 41 Ave",40.7538334343762,-73.942676782608
+"487","station","E 80 St & 2 Ave",40.7739139023812,-73.9543953537941
+"488","station","Monroe St & Tompkins Ave",40.686203,-73.944694
+"489","station","Schermerhorn St & Court St",40.6910292567797,-73.991833627224
+"490","station","E 58 St & 1 Ave",40.7589238637769,-73.9622622728348
+"491","station","University Pl & E 8 St",40.7314372408523,-73.9949034154415
+"492","station","Montague St & Clinton St",40.6942811413973,-73.9923003315926
+"493","station","Verona Pl & Fulton St",40.6803560840434,-73.9476791024208
+"494","station","8 Ave & W 31 St",40.7505853470215,-73.9946848154068
+"495","station","Pier 40 - Hudson River Park",40.7277140777778,-74.011295735836
+"496","station","W 27 St & 10 Ave",40.7501815632568,-74.0021842718124
+"497","station","9 Ave & W 28 St",40.7493702419328,-73.9992338418961
+"498","station","Mercer St & Bleecker St",40.7270636334831,-73.9966213703155
+"499","station","Cooper Square & E 7 St",40.7292364991001,-73.9908680319786
+"500","station","E 61 St & Park Ave",40.7642100716906,-73.9691045880318
+"501","station","E 2 St & 2 Ave",40.7245634290432,-73.9894437789917
+"502","station","Morris Canal",40.7124188237569,-74.0385255217552
+"503","station","Lafayette Park",40.7134638266919,-74.0628585219383
+"504","station","Brunswick & 6th",40.7260117296463,-74.0503889322281
+"505","station","Jersey & 6th St",40.7254578219095,-74.0455260872841
+"506","station","Danforth Light Rail",40.6926094606851,-74.0880900621414
+"507","station","Jersey & 3rd",40.7234007003481,-74.0457540750504
+"508","station","Manila & 1st",40.72165072488,-74.0428841114044
+"509","station","Bethune Center",40.7049575167286,-74.0859308838844
+"510","station","Columbus Drive",40.7183551982321,-74.0389144420624
+"511","station","Marin Light Rail",40.7148245041928,-74.042980670929
+"512","station","Communipaw & Berry Lane",40.7143644678131,-74.0665599703789
+"513","station","Monmouth and 6th",40.725685483629,-74.0487903356552
+"514","station","Dixon Mills",40.7216301426384,-74.0499678254128
+"515","station","Astor Place",40.719282200707,-74.071261882782
+"516","station","Leonard Gordon Park",40.7459099663156,-74.0572714805603
+"517","station","5 Ave & E 88 St",40.78307,-73.95939
+"518","station","W 89 St & Columbus Ave",40.7882213,-73.97041561
+"519","station","E 88 St & Park Ave",40.78141070019,-73.9559590816498
+"520","station","W 87 St  & Amsterdam Ave",40.78839,-73.9747
+"521","station","E 89 St & 3 Ave",40.7806284,-73.9521667
+"522","station","E 88 St & 1 Ave",40.778301,-73.9488134
+"523","station","W 90 St & Amsterdam Ave",40.7901794809508,-73.9728891849518
+"524","station","E 89 St & York Ave",40.7779453,-73.946041
+"525","station","5 Ave & E 93 St",40.7857851,-73.957481
+"526","station","W 92 St & Broadway",40.7921,-73.9739
+"527","station","E 91 St & Park Ave",40.7835016,-73.955327
+"528","station","Central Park W & W 96 St",40.79127,-73.964839
+"529","station","Coming Soon: E 93 St & 2 Ave",40.7825056472902,-73.9488780498505
+"530","station","6 St & 7 Ave",40.6686627,-73.97988067
+"531","station","Warren St & Court St",40.686371,-73.99383324
+"532","station","Coming Soon: E 98 St & Lexington Ave",40.787278535021,-73.9501051604748
+"533","station","Prospect Park West & 8 St",40.6651468153379,-73.9763760566711
+"534","station","Columbus Ave & W 95 St",40.7919557,-73.968087
+"535","station","Columbus Ave & W 103 St",40.7969347,-73.9643412291
+"536","station","Butler St & Court St",40.6849894,-73.99440329
+"537","station","6 Ave & 9 St",40.668127,-73.98377641
+"538","station","E 91 St & 2 Ave",40.7811222993417,-73.9496558904648
+"539","station","10 St & 7 Ave",40.6662078,-73.98199886
+"540","station","West End Ave & W 94 St",40.7941654,-73.974124
+"541","station","Kane St & Clinton St",40.6861758,-73.99645295
+"542","station","E 97 St & 3 Ave",40.7859201,-73.94860294
+"543","station","14 St & 7 Ave",40.663779,-73.98396846
+"544","station","Columbia St & Kane St",40.68763155,-74.0016256
+"545","station","1 Ave & E 94 St",40.7817212,-73.94594
+"546","station","6 Ave & 12 St",40.6663181,-73.9854617
+"547","station","W 95 St & Broadway",40.7937704,-73.971888
+"548","station","Henry St & Degraw St",40.6847514,-73.99917254
+"549","station","W 104 St & Amsterdam Ave",40.7989937,-73.9662173778
+"550","station","10 St & 5 Ave",40.6686273,-73.98700053
+"551","station","Coming Soon: 2 Ave & E 96 St",40.7839636,-73.9471673
+"552","station","14 St & 5 Ave",40.666287,-73.98895053
+"553","station","Central Park West & W 100 St",40.793393,-73.9635556
+"554","station","Clinton St & Union St",40.6831164,-73.99785267
+"555","station","12 St & 4 Ave",40.668603,-73.9904394
+"556","station","W 106 St & Central Park West",40.7981856,-73.9605909006
+"557","station","3 Ave & 14 St",40.6685455,-73.99333264
+"558","station","E 95 St & 3 Ave",40.7849032,-73.950503
+"559","station","Clinton St & Centre St",40.67434,-74.00194698
+"560","station","3 Ave & E 100 St",40.7877214,-73.94728331
+"561","station","W 100 St & Manhattan Ave",40.795,-73.9645
+"562","station","Degraw St & Smith St",40.6829151,-73.99318208
+"563","station","Henry St & Bay St",40.6725058,-74.00494695
+"564","station","Riverside Dr & W 104 St",40.8013434,-73.9711457439
+"565","station","Degraw St & Hoyt St",40.681990442707,-73.9907902479172
+"566","station","Columbia St & Lorraine St",40.6747055,-74.0075572
+"567","station","Union St & 4 Ave",40.6772744,-73.98282002
+"568","station","E 97 St & Madison Ave",40.787801,-73.953559
+"569","station","Coming Soon: Beard St & Otsego St",40.672415,-74.011802
+"570","station","2 Ave & E 99 St",40.7862586,-73.94552579
+"571","station","Berkeley Pl & 6 Ave",40.6765304,-73.97846879
+"572","station","Wolcott St & Dwight St",40.6753274,-74.0100698
+"573","station","Central Park West & W 102 St",40.795346,-73.96186
+"574","station","Pioneer St & Richards St",40.6777748,-74.0094613
+"575","station","W 107 St & Columbus Ave",40.7997568,-73.9621128676
+"576","station","Pioneer St & Van Brunt St",40.679043,-74.011169
+"577","station","Madison Ave & E 99 St",40.7894854155321,-73.9524292945862
+"578","station","Berkeley Pl & 7 Ave",40.6751468387098,-73.9752320945263
+"579","station","Van Brunt St & Wolcott St",40.6773429,-74.01275056
+"580","station","Coffey St & Conover St",40.677236,-74.015665
+"581","station","Grand Army Plaza & Plaza St West",40.6729679,-73.97087984
+"582","station","W 100 St & Broadway",40.7973721,-73.97041192
+"583","station","E 102 St & 1 Ave",40.7869946,-73.94164802
+"584","station","Coming Soon: Sigourney St & Columbia St",40.6726724341095,-74.0087952464819
+"585","station","Reed St & Van Brunt St",40.6747844,-74.01612847
+"586","station","3 St & Prospect Park West",40.668132,-73.97363831
+"587","station","E 66 St & Madison Ave",40.7680088930595,-73.9684528112411
+"588","station","Amsterdam Ave & W 66 St",40.7746671,-73.98470567
+"589","station","W 106 St & Amsterdam Ave",40.8008363,-73.9664492472
+"590","station","Garfield Pl & 8 Ave",40.6711978,-73.97484126
+"591","station","E 68 St & Madison Ave",40.7691572,-73.96703464
+"592","station","Amsterdam Ave & W 79 St",40.7829391,-73.9786517
+"593","station","Carroll St & 6 Ave",40.6740886,-73.9787282
+"594","station","Madison Ave & E 82 St",40.7781314,-73.96069399
+"595","station","E 102 St & Park Ave",40.7904828,-73.95033068
+"596","station","Carroll St & 5 Ave",40.6751622,-73.9814832
+"597","station","West End Ave & W 107 St",40.8021174,-73.9681805305
+"598","station","5 Ave & E 103 St",40.7922553,-73.95249933
+"599","station","5 Ave & 3 St",40.6728155,-73.98352355
+"600","station","Coming Soon: 83 St & East End Ave",40.7730159,-73.94637823
+"601","station","78 St & 2 Ave",40.7727966,-73.95577801
+"602","station","Coming Soon: 4 Ave & 2 Street",40.6746134224758,-73.9850114285946
+"603","station","E 74 St & 1 Ave",40.7689738,-73.95482273
+"604","station","3 St & 3 Ave",40.6750705,-73.98775226
+"605","station","Central Park North & Adam Clayton Powell Blvd",40.799484,-73.955613
+"606","station","3 Ave & E 72 St",40.7699426,-73.96060712
+"607","station","E 65 St & 2 Ave",40.7647185194434,-73.962220698595
+"608","station","Carroll St & Bond St",40.6786115,-73.99037292
+"609","station","E 76 St & Park Ave",40.773763,-73.96222088
+"610","station","E 103 St & Lexington Ave",40.7903051,-73.94755757
+"611","station","3 St & Hoyt St",40.6777287,-73.99364123
+"612","station","Carroll St & Smith St",40.680611,-73.99475825
+"613","station","Cathedral Pkwy & Broadway",40.804213,-73.96699104
+"614","station","Smith St & 3 St",40.6787242,-73.99599099
+"615","station","1 Pl & Clinton St",40.6809591,-73.99905709
+"616","station","E 106 St & Madison Ave",40.7934337,-73.94945003
+"617","station","President St & Henry St",40.6828003,-73.99990419
+"618","station","Carroll St & Columbia St",40.6830456,-74.00348559
+"619","station","E 109 St & 3 Ave",40.79329668,-73.9432083
+"620","station","E 106 St & 1 Ave",40.7892529,-73.93956237
+"621","station","Commerce St & Van Brunt St",40.6812117,-74.00860912
+"622","station","Richards St & Delavan St",40.6794327,-74.00785041
+"623","station","Columbia St & W 9 St",40.6769993,-74.00647134
+"624","station","Henry St & W 9 St",40.6763744,-74.00324957
+"625","station","Clinton St & 4 Place",40.6783563,-74.00014502
+"626","station","Court St & Nelson St",40.6763947,-73.99869893
+"627","station","Smith St & 9 St",40.6746957,-73.99785768
+"628","station","7 St & 3 Ave",40.6726029815013,-73.9898300170898
+"629","station","E 110 St & Madison Ave",40.7961535,-73.94782145
+"630","station","2 Ave & 9 St",40.6724811,-73.99331394
+"631","station","Court St & State St",40.6902375,-73.99203074
+"632","station","4 Ave & 9 St",40.6705135,-73.98876585
+"633","station","7 St & 5 Ave",40.6704922,-73.98541675
+"634","station","5 St & 6 Ave",40.6704836,-73.98208968
+"635","station","Union St & Nevins St",40.6790979972168,-73.9876547455788
+"636","station","Congress St & Clinton St",40.6881529,-73.99520919
+"637","station","Bergen St & Smith St",40.6867443,-73.99063168
+"638","station","Dean St & Hoyt St",40.6864442,-73.98759104
+"639","station","Bond St & Bergen St",40.6849668,-73.98620772
+"640","station","Pacific St & Nevins St",40.6853761,-73.98302136
+"641","station","Wyckoff St & 3 Ave",40.6827549,-73.98258555
+"642","station","Bergen St & Flatbush Ave",40.6809447234773,-73.9756733179092
+"643","station","Prospect Pl & 6 Ave",40.6793307,-73.97519523
+"644","station","7 Ave & Park Pl",40.6776147,-73.97324283
+"645","station","Baltic St & 5 Ave",40.6795766,-73.97854971
+"646","station","Plaza St West & Flatbush Ave",40.6750207,-73.97111473
+"647","station","Douglass St & 4 Ave",40.6792788,-73.98154004
+"648","station","Douglass St & 3 Ave",40.6802133,-73.98432695
+"649","station","Hoyt St & Warren St",40.6843549,-73.98901629
+"650","station","Columbia St & Degraw St",40.6859296,-74.00242364
+"651","station","West Drive & Prospect Park West",40.6610633719006,-73.9794525504112
+"652","station","E 106 St & Lexington Ave",40.791976,-73.945993
+"653","station","2 Ave  & E 104 St",40.7892105,-73.94370784
+"654","station","Lafayette St & Jersey St",40.7243052725033,-73.9960098266602
+"655","station","8 Ave & W 16 St",40.740983,-74.001702
+"656","station","Hanson Pl & Ashland Pl",40.6850680730818,-73.9779075980186
+"657","station","Richardson St & N Henry St",40.7190789117956,-73.9422369003296
+"658","station","E 35 St & 3 Ave",40.746524,-73.977885
+"659","station","W 88 St & West End Ave",40.7902541733042,-73.9771834015846
+"660","station","Grand St & Elizabeth St",40.718822,-73.99596
+"661","station","Greenwich St & Hubert St",40.721319,-74.010065
+"662","station","Riverside Dr & W 91 St",40.7931348098666,-73.9770036935806
+"663","station","E 76 St & 3 Ave",40.7722485377217,-73.9584213495255
+"2100","Casual Eating & Takeout","Starbucks Coffee",40.680197,-73.9467343
+"3100","Personal and Professional Services","New York Health & Racquet Club",40.7029437,-74.012676
+"4100","Full Service Dining","A.J. Kelly's",40.7039279,-74.012469
+"5100","Full Service Dining","Fraunces Tavern® Restaurant",40.7033945,-74.0113374
+"6100","Casual Eating & Takeout","Bombay's",40.7034358,-74.0110884
+"773","Personal and Professional Services","Pearl Bodywork",40.7034358,-74.0110884
+"810","Casual Eating & Takeout","McDonald's",40.7029581,-74.0122837
+"910","Casual Eating & Takeout","Water Street Gourmet Deli & Pizza",40.7029915,-74.0121475
+"1010","Shopping","Alice's Fashion",40.7021004,-74.0120105
+"1110","Casual Eating & Takeout","Mr. Soup",40.7021004,-74.0120105
+"1210","Casual Eating & Takeout","Vivo Food",40.7021004,-74.0120105
+"1310","Personal and Professional Services","Gateway News",40.7021004,-74.0120105
+"1410","Casual Eating & Takeout","New World Coffee",40.7021004,-74.0120105
+"1510","Personal and Professional Services","New York Plaza Cleaners & Tailors/Shoe Repair",40.7021004,-74.0120105
+"1610","Personal and Professional Services","Salvatore's  Barber Shop and Hair Salon",40.7021004,-74.0120105
+"1710","Shopping","Estee Lauder Companies Inc., The Company Store",40.7021004,-74.0120105
+"1810","Casual Eating & Takeout","Subway",40.7021004,-74.0120105
+"1910","Casual Eating & Takeout","Cafe Groppi",40.7033093,-74.0109326
+"2010","Casual Eating & Takeout","Pranzo",40.7033278,-74.0108362
+"2110","Casual Eating & Takeout","Fika Espresso Bar",40.7034852,-74.0108313
+"2210","Full Service Dining","Wall Street Burger Shoppe",40.7032931,-74.0110308
+"2310","Casual Eating & Takeout","Subway",40.7032619,-74.0110844
+"2410","Personal and Professional Services","Nelly's Hair Salon",40.7032619,-74.0110844
+"2510","Personal and Professional Services","Shoe Repair and Shine",40.703182,-74.0113458
+"2610","Casual Eating & Takeout","Rockwell's Deli",40.703182,-74.0113458
+"2710","Casual Eating & Takeout","Au Bon Pain",40.702764,-74.0133466
+"2810","Casual Eating & Takeout","Starbucks Coffee",40.7033758,-74.0138065
+"2910","Community Resources","US Post Office-Whitehall Station",40.7038411,-74.0127412
+"3010","Casual Eating & Takeout","Flavors Cafe",40.703459,-74.0126638
+"3110","Personal and Professional Services","Reyna's Nail Salon, Inc.",40.703459,-74.0126638
+"3210","Personal and Professional Services","Broad-Stone Newsstand",40.7039603,-74.0119572
+"3310","Full Service Dining","China Chalet",40.7037939,-74.0119961
+"3410","Casual Eating & Takeout","Pax Wholesome Foods",40.7037939,-74.0119961
+"3510","Personal and Professional Services","New Stone Nails",40.7037939,-74.0119961
+"3610","Full Service Dining","Whitehorse Tavern",40.7037703,-74.0123867
+"3710","Shopping","Duane Reade",40.7038411,-74.0127412
+"3810","Shopping","California Wine Merchants",40.7036783,-74.0126542
+"3910","Shopping","General Nutrition Center",40.7045399,-74.0130866
+"4010","Casual Eating & Takeout","Chipotle",40.7045399,-74.0130866
+"4110","Shopping","Nine West",40.7045399,-74.0130866
+"4210","Shopping","Ann Taylor Loft",40.7045399,-74.0130866
+"4310","Shopping","Aerosoles",40.7045399,-74.0130866
+"4410","Casual Eating & Takeout","Starbucks Coffee",40.7045399,-74.0130866
+"4510","Personal and Professional Services","MCU Municipal Credit Union - ATM",40.7045399,-74.0130866
+"4610","Casual Eating & Takeout","Burger King",40.7048083,-74.0125066
+"4710","Shopping","Ciao Bow Wow Dog Daycare",40.7048083,-74.0125066
+"4810","Shopping","Candy Plus",40.7048083,-74.0125066
+"4910","Casual Eating & Takeout","Yip's Restaurant",40.7048111,-74.0123928
+"5010","Casual Eating & Takeout","Georgio's Pizzeria",40.7048362,-74.0123006
+"5110","Personal and Professional Services","Emanuel's Hair & Nail Salon",40.7048421,-74.0122049
+"5210","Casual Eating & Takeout","Trader's Cafe",40.7048421,-74.0122049
+"5310","Personal and Professional Services","NYC Check Express",40.7048192,-74.0121199
+"5410","Shopping","Pay Half",40.7043408,-74.0118572
+"5510","Personal and Professional Services","Citibank ATM",40.7043408,-74.0118572
+"5610","Casual Eating & Takeout","Quizno's",40.7043408,-74.0118572
+"5710","Personal and Professional Services","Abigail Pessen Mediation Services",40.7043408,-74.0118572
+"5810","Personal and Professional Services","First Republic Bank",40.7043408,-74.0118572
+"5910","Casual Eating & Takeout","Giuliano Gourmet Pizza & Deli",40.7042701,-74.011876
+"6010","Full Service Dining","Nebraska Steakhouse",40.7041919,-74.012107
+"6110","Casual Eating & Takeout","Urban Lobster Shack",40.7041919,-74.012107
+"6210","Casual Eating & Takeout","Pizza Italia",40.7041666,-74.0122671
+"6310","Full Service Dining","Asian Fusion on Stone",40.7041666,-74.0122671
+"6410","Full Service Dining","Ancora Ristorante",40.7041666,-74.0122671
+"6510","Shopping","National Museum of the American Indian (Gift Shop)",40.7043342,-74.0139776
+"6610","Casual Eating & Takeout","Dunkin Donuts",40.7021004,-74.0120105
+"6710","Personal and Professional Services","Thread Eyebrow Salon",40.711246,-74.0061689
+"6810","Personal and Professional Services","Coiffeur",40.711246,-74.0061689
+"6910","Personal and Professional Services","Bank of America ATM",40.711246,-74.0061689
+"7010","Shopping","Verizon Wireless",40.7115866,-74.0066803
+"7110","Shopping","The Hat Corner",40.7115216,-74.0064992
+"7210","Shopping","Edible Arrangements",40.7115216,-74.0064992
+"7310","Shopping","Shoetown",40.7115216,-74.0064992
+"7410","Personal and Professional Services","Antonella's Salon",40.711423,-74.0064631
+"7510","Casual Eating & Takeout","Starbucks Coffee",40.7115866,-74.0066803
+"7610","Personal and Professional Services","Optimo Cigars",40.7115866,-74.0066803
+"774","Shopping","Barnes & Noble Pace University Bookstore",40.7116735,-74.006211
+"781","Casual Eating & Takeout","Bits Bites & Baguettes",40.7127305,-74.0085653
+"791","Casual Eating & Takeout","Toastie's Deli",40.7098097,-74.0085713
+"801","Casual Eating & Takeout","Starbucks Coffee",40.7124491,-74.0082925
+"811","Shopping","Papyrus",40.7124491,-74.0082925
+"821","Full Service Dining","Woolworth Tower Kitchen",40.7122875,-74.0084453
+"831","Personal and Professional Services","Off Track Betting",40.7133461,-74.0086558
+"841","Personal and Professional Services","Church Street Boxing Gym",40.7133461,-74.0086558
+"851","Shopping","AT&T",40.713568,-74.0087698
+"861","Casual Eating & Takeout","Shinjuku",40.7134407,-74.008898
+"871","Personal and Professional Services","Marie Costa News Stand",40.7133731,-74.0089018
+"881","Personal and Professional Services","Sufu Nail & Spa",40.713568,-74.0087698
+"891","Personal and Professional Services","Yasha's Shoe Shine and Repair",40.7134169,-74.0089138
+"901","Personal and Professional Services","Kunal Grocery Inc.",40.7133731,-74.0089018
+"911","Nightlife","Club Remix",40.7133731,-74.0089018
+"921","Casual Eating & Takeout","Star Pizza",40.7136113,-74.0087056
+"931","Shopping","N.C.R. DVD Video Inc.",40.7134407,-74.008898
+"941","Casual Eating & Takeout","Downtown Deli",40.7134526,-74.0088274
+"951","Full Service Dining","KD Connelly's",40.7132703,-74.0080433
+"961","Casual Eating & Takeout","Dunkin Donuts",40.7128255,-74.0079564
+"971","Shopping","Duane Reade",40.7129838,-74.007819
+"981","Personal and Professional Services","Citibank",40.7129838,-74.007819
+"991","Casual Eating & Takeout","Sunny's Deli",40.7131603,-74.0082076
+"1001","Casual Eating & Takeout","Muscle Maker Grill",40.7133359,-74.0081867
+"1011","Casual Eating & Takeout","Best of the Best Deli",40.7131603,-74.0082076
+"1021","Casual Eating & Takeout","Little Italy Pizza",40.7131603,-74.0082076
+"1031","Personal and Professional Services","Digital Hard Copy",40.7132851,-74.0083872
+"1041","Casual Eating & Takeout","Taj Tribeca",40.7133698,-74.0085033
+"1051","Shopping","Tent & Trails",40.713229,-74.0086199
+"1061","Shopping","Amish Fine Food",40.7138333,-74.0102424
+"1071","Shopping","AT&T Device Support Center",40.7138281,-74.0097093
+"1081","Personal and Professional Services","Equinox Fitness Club",40.7141901,-74.0100543
+"1091","Shopping","Duane Reade",40.7062774,-74.0132363
+"1101","Personal and Professional Services","Emigrant Savings Bank",40.7135918,-74.0092858
+"1111","Casual Eating & Takeout","Starbucks Coffee",40.7137195,-74.0092359
+"1121","Shopping","De Janeiro",40.7135918,-74.0092858
+"1131","Nightlife","Dakota Roadhouse",40.713701,-74.0096949
+"1141","Personal and Professional Services","Chase Bank",40.7144487,-74.0121507
+"1151","Personal and Professional Services","Citibank",40.7049765,-74.0144336
+"1161","Personal and Professional Services","Perfect Copy Center",40.7052529,-74.0140703
+"1171","Casual Eating & Takeout","Cafe Plaza Deli",40.7052529,-74.0140703
+"1181","Casual Eating & Takeout","Subway",40.7052529,-74.0140703
+"1191","Shopping","New York Wine Exchange",40.7051869,-74.0142069
+"1201","Shopping","Radio Shack",40.7051869,-74.0142069
+"1211","Personal and Professional Services","Berkshire Bank",40.7051181,-74.0141645
+"1221","Personal and Professional Services","Ferris Consulting Corporation",40.7052529,-74.0140703
+"1231","Shopping","City Blossoms",40.7056796,-74.0156797
+"1241","Shopping","Duane Reade",40.7051613,-74.0159706
+"1251","Shopping","Zaytuna",40.7051613,-74.0159706
+"1261","Casual Eating & Takeout","West Bank Gourmet",40.7063636,-74.015617
+"1271","Full Service Dining","Merchants NY Cafe",40.70803,-74.014869
+"1281","Shopping","West Street Wine & Spirits Outlet",40.7083435,-74.0151364
+"1291","Shopping","Petropolis",40.7079952,-74.0143571
+"1301","Personal and Professional Services","Jeffrey Levine, Attorney At Law",40.7079273,-74.013943
+"1311","Personal and Professional Services","United States Postal Service Automated Postal Center",40.707859,-74.0140909
+"1321","Shopping","Syms",40.707363,-74.0135575
+"1331","Casual Eating & Takeout","Tajin Mexican",40.7076612,-74.0134539
+"1341","Personal and Professional Services","NYC Check Express Inc.",40.7076617,-74.0133907
+"1351","Personal and Professional Services","Check Express",40.7076617,-74.0133907
+"1361","Casual Eating & Takeout","George's New York",40.7077238,-74.0134994
+"1371","Visitor Services","Travelex",40.7061601,-74.013708
+"1381","Personal and Professional Services","Bank of America",40.7061601,-74.013708
+"1391","Full Service Dining","China Chalet",40.7065991,-74.0130412
+"1401","Full Service Dining","T.G.I. Friday's",40.7065991,-74.0130412
+"1411","Casual Eating & Takeout","Cafe Exchange & Catering",40.7068075,-74.0133097
+"1421","Casual Eating & Takeout","Sale & Pepe Fine Foods & Catering",40.7067944,-74.0128876
+"1431","Personal and Professional Services","Arce Shoe Repair",40.7067944,-74.0128876
+"1441","Personal and Professional Services","FedEx Kinkos",40.7068263,-74.0130304
+"1451","Full Service Dining","Blarney Stone",40.7062029,-74.0137007
+"1461","Shopping","Hallmark Gold Crown",40.7063394,-74.0134099
+"1471","Casual Eating & Takeout","Variety Cafe On Broadway",40.707398,-74.0126037
+"1481","Shopping","New York Diamond Center",40.707398,-74.0126037
+"1491","Casual Eating & Takeout","Bean & Bean Organic Coffee",40.7074764,-74.0122945
+"1501","Personal and Professional Services","71 Cleaners",40.7074764,-74.0122945
+"1511","Casual Eating & Takeout","Champs Gourmet Deli",40.7074764,-74.0122945
+"1521","Personal and Professional Services","International Haircutters",40.7074221,-74.0123604
+"1531","Personal and Professional Services","David Shoe Repair",40.7074764,-74.0122945
+"1541","Shopping","Stapleton Factory Shoe Outlet",40.7074221,-74.0123604
+"1551","Personal and Professional Services","Signature Bank",40.7074764,-74.0122945
+"1561","Shopping","Complete Entertainment Exchange",40.7074764,-74.0122945
+"1571","Personal and Professional Services","Das Smoke Shop, Inc.",40.7054423,-74.0128882
+"1581","Personal and Professional Services","HSBC",40.7054423,-74.0128882
+"1591","Personal and Professional Services","Sol Speedy",40.7054423,-74.0128882
+"1601","Casual Eating & Takeout","Sophie's Cuban Cuisine",40.705587,-74.0125389
+"1611","Casual Eating & Takeout","Blue Chip Deli",40.7054423,-74.0128882
+"1621","Casual Eating & Takeout","Stir Cafe",40.7057954,-74.0127256
+"1631","Casual Eating & Takeout","Pita Grill",40.7053238,-74.0125997
+"1641","Casual Eating & Takeout","The Grotto Restaurant & Catering",40.7053238,-74.0125997
+"1651","Casual Eating & Takeout","Sushi by Bento Nouveau",40.7057954,-74.0127256
+"1661","Personal and Professional Services","New Street Barber Shop",40.7059796,-74.0126029
+"1671","Personal and Professional Services","Chase Bank",40.7059796,-74.0126029
+"1681","Shopping","Staples",40.7059796,-74.0126029
+"1691","Personal and Professional Services","VMS Candy & Cigar Corporation",40.7059796,-74.0126029
+"1701","Shopping","Daffy's",40.7062417,-74.0124507
+"1711","Casual Eating & Takeout","Pret A Manger",40.7062417,-74.0124507
+"1721","Personal and Professional Services","Trade Center Lock & Hardware",40.7060792,-74.0121392
+"1731","Casual Eating & Takeout","Cafe Bravo",40.7064819,-74.0122811
+"1741","Personal and Professional Services","Amalgamated Bank",40.7064819,-74.0122811
+"1751","Personal and Professional Services","Bank of New York Mellon",40.7071269,-74.0118078
+"1761","Shopping","Christopher Norman Chocolates, Ltd.",40.7054584,-74.0123125
+"1771","Casual Eating & Takeout","Pret A Manger",40.7051602,-74.0117503
+"1781","Casual Eating & Takeout","Au Bon Pain",40.7051602,-74.0117503
+"1791","Personal and Professional Services","LensCrafters Optique",40.7051602,-74.0117503
+"1801","Personal and Professional Services","Blue Chip Unisex Salon",40.7058715,-74.0120488
+"1811","Shopping","Mohan Jewelers",40.7058715,-74.0120488
+"1821","Casual Eating & Takeout","Champs Gourmet Deli",40.7062816,-74.0116317
+"1831","Shopping","Dijon",40.706245,-74.0115902
+"1841","Casual Eating & Takeout","Subway",40.706245,-74.0115902
+"1851","Personal and Professional Services","Roman Shoe Repair & Shine",40.706245,-74.0115902
+"1861","Full Service Dining","SHO Shaun Hergatt at The Setai",40.7060375,-74.0117772
+"1871","Personal and Professional Services","Liberty Travel",40.7056999,-74.011785
+"1881","Personal and Professional Services","New York Lottery",40.7051255,-74.0124165
+"1891","Personal and Professional Services","Gary Vending",40.7051719,-74.0122435
+"1901","Shopping","Broad Street Jewelers",40.7049611,-74.0119428
+"1911","Personal and Professional Services","The Setai Spa",40.7060375,-74.0117772
+"1921","Casual Eating & Takeout","Cosi Sandwich Bar",40.7052927,-74.0108765
+"1931","Casual Eating & Takeout","Starbucks Coffee",40.7052927,-74.0108765
+"1941","Full Service Dining","Bobby Van's Steakhouse",40.7060887,-74.0111372
+"1951","Personal and Professional Services","Exchange Cleaners",40.7060887,-74.0111372
+"1961","Shopping","Canali",40.7060887,-74.0111372
+"1971","Full Service Dining","Bobby Van's Grill",40.7060887,-74.0111372
+"1981","Shopping","De Janeiro",40.7057679,-74.0101946
+"1991","Casual Eating & Takeout","Blimpie",40.7057883,-74.0102499
+"2001","Shopping","All Brands Office Equipment Inc.",40.7057883,-74.0102499
+"2011","Shopping","Sam Swick Leather Goods, Inc.",40.7057883,-74.0102499
+"2021","Personal and Professional Services","Minas Shoe Repair Inc.",40.7057883,-74.0102499
+"2031","Full Service Dining","The Irish Punt",40.7057883,-74.0102499
+"2041","Casual Eating & Takeout","Cafe Doppio",40.7052927,-74.0108765
+"2051","Casual Eating & Takeout","Hale and Hearty Soup",40.7052927,-74.0108765
+"2061","Personal and Professional Services","Chase Bank",40.7061778,-74.0099151
+"2071","Personal and Professional Services","Black Label",40.706057,-74.0103557
+"2081","Shopping","Tiffany & Co.",40.70648,-74.0101672
+"2091","Shopping","Tourbillon",40.7061778,-74.0099151
+"2101","Casual Eating & Takeout","Cucina Bene",40.7062407,-74.0100679
+"2111","Shopping","Hermés",40.7064181,-74.0106248
+"2121","Full Service Dining","Cipriani Wall Street",40.7060794,-74.0093213
+"2131","Personal and Professional Services","Minas Shoe Repair Inc.",40.7055787,-74.0083779
+"2141","Shopping","BMW",40.7055787,-74.0083779
+"2151","Shopping","Tumi",40.7055787,-74.0083779
+"2161","Casual Eating & Takeout","Crumbs Bakeshop",40.7054218,-74.0086129
+"2171","Community Resources","US Post Office-Hanover Finance Station",40.705918,-74.0088312
+"2181","Shopping","Thomas Pink",40.7056363,-74.0087422
+"2191","Shopping","La Maison du Chocolat",40.7056363,-74.0087422
+"2201","Casual Eating & Takeout","Yorganic",40.7049985,-74.0096249
+"2211","Casual Eating & Takeout","Hanover Gourmet Deli",40.7049985,-74.0096249
+"2221","Shopping","Ray's Jewelry",40.7049985,-74.0096249
+"2231","Full Service Dining","Taste of Tokyo",40.7051035,-74.0096066
+"2241","Full Service Dining","Joseph's Restaurant",40.7049985,-74.0096249
+"2251","Personal and Professional Services","George's Hair Styling",40.7051035,-74.0096066
+"2261","Shopping","Leonidas Belgian Chocolates",40.7049985,-74.0096249
+"2271","Casual Eating & Takeout","Underground Pizza",40.7049985,-74.0096249
+"2281","Casual Eating & Takeout","Leo's Bagels",40.7049985,-74.0096249
+"2291","Casual Eating & Takeout","Cafe Bravo",40.7052635,-74.008852
+"2301","Full Service Dining","Killarney Rose Garden",40.7051605,-74.0087442
+"2311","Full Service Dining","Haru",40.7071269,-74.0118078
+"2321","Full Service Dining","Fino Wall Street",40.7071269,-74.0118078
+"2331","Personal and Professional Services","The UPS Store",40.7050758,-74.0091604
+"2341","Casual Eating & Takeout","Cafe Hanover",40.7050758,-74.0091604
+"2351","Shopping","Barclay-Rex",40.7046866,-74.0112304
+"2361","Casual Eating & Takeout","New Golden Chopsticks",40.7040451,-74.0104852
+"2371","Casual Eating & Takeout","Bingo Deli",40.7040451,-74.0104852
+"2381","Casual Eating & Takeout","Terrace Fish & Chip",40.7040451,-74.0104852
+"2391","Casual Eating & Takeout","Ruben's Empanadas",40.7040451,-74.0104852
+"2401","Casual Eating & Takeout","Pizza Pizza NYC",40.7040451,-74.0104852
+"2411","Casual Eating & Takeout","Burger Burger",40.7040451,-74.0104852
+"2421","Full Service Dining","Waterstone Grill",40.7040869,-74.0104105
+"2431","Full Service Dining","Beckett's",40.7041286,-74.0103355
+"2441","Full Service Dining","Mad Dog & Beans",40.7041783,-74.0102743
+"2451","Full Service Dining","Stone Street Tavern",40.7042272,-74.0102138
+"2461","Full Service Dining","Adrienne's Pizza Bar",40.7042851,-74.0101208
+"2471","Full Service Dining","Harry's Cafe/Harry's Steak",40.7046145,-74.009734
+"2481","Casual Eating & Takeout","Bayard's",40.7046145,-74.009734
+"2491","Casual Eating & Takeout","Ulysses'",40.7043615,-74.0100459
+"2501","Casual Eating & Takeout","Financier Patisserie",40.704494,-74.0098782
+"2511","Full Service Dining","Vintry Wine & Whiskey",40.70452,-74.0102668
+"2521","Shopping","Royal Wine Merchants",40.7045427,-74.0103879
+"2531","Full Service Dining","Smorgas Chef",40.704461,-74.0103936
+"2541","Full Service Dining","Crepes Du Nord",40.7044697,-74.0104904
+"2551","Full Service Dining","The Dubliner",40.7043378,-74.0103648
+"2561","Personal and Professional Services","Wong's Custom Tailor",40.7044825,-74.0111435
+"2571","Personal and Professional Services","Wachovia ATM",40.7046866,-74.0112304
+"2581","Shopping","Duane Reade",40.7046866,-74.0112304
+"2591","Full Service Dining","Delmonico's Steakhouse",40.7049162,-74.0104198
+"2601","Personal and Professional Services","Best Shoe Repair",40.7049647,-74.010733
+"2611","Personal and Professional Services","Barber Shop",40.7049647,-74.010733
+"2621","Casual Eating & Takeout","Diwan E. Khaas",40.7046643,-74.0107401
+"2631","Full Service Dining","No. 1 Little House",40.7047273,-74.010645
+"2641","Personal and Professional Services","Oggi Hair Salon & Nail Spa",40.7036564,-74.0103989
+"2651","Shopping","L'Atelier Des Fleurs Floral & Event Design",40.7037389,-74.0104776
+"2661","Personal and Professional Services","Eastern Newsstands",40.704046,-74.0096619
+"2671","Personal and Professional Services","L & M Pearl Cleaners",40.704046,-74.0096619
+"2681","Shopping","Diamond's Hallmark",40.704046,-74.0096619
+"2691","Personal and Professional Services","Esther's Shoe Repair",40.704046,-74.0096619
+"2701","Shopping","Optical Insight",40.704046,-74.0096619
+"2711","Shopping","Mark Wilkinson Furniture",40.704046,-74.0096619
+"2721","Shopping","Myoptics Opticians",40.704046,-74.0096619
+"2731","Personal and Professional Services","Pearl Hairstyling Salon",40.7036995,-74.0103388
+"2741","Casual Eating & Takeout","Nu Sushi",40.7036995,-74.0103388
+"2751","Casual Eating & Takeout","Da Vinci Pizza",40.7036079,-74.0101088
+"2761","Casual Eating & Takeout","All American Water Street Deli",40.7035612,-74.0101792
+"2771","Shopping","AT&T",40.7035168,-74.0102476
+"2781","Personal and Professional Services","King's Custom Tailoring",40.7035168,-74.0102476
+"2791","Casual Eating & Takeout","Fresco on the Go",40.7047329,-74.0087141
+"2801","Casual Eating & Takeout","The Original Soupman",40.7045922,-74.0088228
+"2811","Personal and Professional Services","Apple Bank for Savings",40.7045906,-74.0089036
+"2821","Casual Eating & Takeout","Starbucks Coffee",40.7045922,-74.0088228
+"2831","Full Service Dining","Mercantile Grill",40.704804,-74.0086218
+"2841","Nightlife","Bar Seven Five",40.7051404,-74.0079954
+"2851","Full Service Dining","Wall & Water",40.7051404,-74.0079954
+"2861","Personal and Professional Services","Chase Bank",40.7031921,-74.009368
+"2871","Shopping","Downtown Manhattan Candy Store",40.7041997,-74.0082419
+"2881","Shopping","Duane Reade",40.7046936,-74.0074978
+"2891","Shopping","Bolton's",40.7046936,-74.0074978
+"2901","Shopping","T-Mobile",40.7048253,-74.0072831
+"2911","Personal and Professional Services","Kamlesh, Inc.",40.704267,-74.007
+"2921","Full Service Dining","Koodo Sushi",40.7088048,-74.009407
+"2931","Personal and Professional Services","FedEx",40.7049123,-74.0064032
+"2941","Shopping","Verizon Wireless",40.7052203,-74.0068009
+"2951","Casual Eating & Takeout","Starbucks Coffee",40.7052203,-74.0068009
+"2961","Personal and Professional Services","Fed Ex Kinko's",40.7052203,-74.0068009
+"2971","Personal and Professional Services","Apple Bank for Savings",40.7056782,-74.0060885
+"2981","Shopping","AT&T",40.7054169,-74.0074855
+"2991","Personal and Professional Services","Hirsute Salon",40.7054169,-74.0074855
+"3001","Shopping","Pine Street Nuts & Candy",40.7058383,-74.0073737
+"3011","Shopping","Wall Street Wine Merchant",40.7058383,-74.0073737
+"3021","Casual Eating & Takeout","Shinju Sushi",40.7058765,-74.0074034
+"3031","Casual Eating & Takeout","Cafe Water",40.7056884,-74.0071785
+"3041","Shopping","Lane Jewelers",40.7058383,-74.0073737
+"3051","Personal and Professional Services","Rose Hair Salon",40.7058383,-74.0073737
+"3061","Personal and Professional Services","Pine Street Cleaners",40.7058765,-74.0074034
+"3071","Personal and Professional Services","Telestar Locksmiths II",40.7058383,-74.0073737
+"3081","Casual Eating & Takeout","Vietnamese Sandwiches",40.7058765,-74.0074034
+"3091","Personal and Professional Services","The Mailroom",40.7058383,-74.0073737
+"3101","Casual Eating & Takeout","Au Bon Pain",40.7061616,-74.0068218
+"3111","Casual Eating & Takeout","Starbucks Coffee",40.7061616,-74.0068218
+"3121","Shopping","Flowers of the World",40.7061616,-74.0068218
+"3131","Casual Eating & Takeout","Hale and Hearty Soup",40.7061672,-74.0066578
+"3141","Casual Eating & Takeout","The Pump",40.7061616,-74.0068218
+"3151","Casual Eating & Takeout","Cafe Wall Street",40.7056275,-74.0076321
+"3161","Casual Eating & Takeout","Niko Niko Sushi & Bowl",40.7056275,-74.0076321
+"3171","Casual Eating & Takeout","Subway",40.70554,-74.007334
+"3181","Shopping","Sprint",40.705498,-74.007364
+"3191","Shopping","Trinity Smoke",40.7057353,-74.0074865
+"3201","Full Service Dining","The Full Shilling",40.7057353,-74.0074865
+"3211","Shopping","Museum of American Finance Gift Shop",40.7065668,-74.0090422
+"3221","Full Service Dining","William's Restaurant & Bar",40.706708,-74.0089239
+"3231","Personal and Professional Services","Martin News",40.7061677,-74.0083195
+"3241","Casual Eating & Takeout","Country Cafe",40.7061677,-74.0083195
+"3251","Casual Eating & Takeout","Le Glacier",40.7061677,-74.0083195
+"3261","Personal and Professional Services","Cobbler Express",40.7061677,-74.0083195
+"3271","Full Service Dining","The Ketch",40.7063056,-74.0074663
+"3281","Shopping","Gift Works Boutique",40.7064807,-74.0076486
+"3291","Casual Eating & Takeout","Country Bakery Cafe",40.7064807,-74.0076486
+"3301","Full Service Dining","Ise Japanese Restaurant",40.706839,-74.0083402
+"3311","Casual Eating & Takeout","Diwan E. Khaas",40.7070189,-74.0083887
+"3321","Casual Eating & Takeout","Taz Cafe",40.7068228,-74.0085182
+"3331","Casual Eating & Takeout","Koyzina Kafe",40.7071041,-74.0084747
+"3341","Casual Eating & Takeout","Yip's Oriental Express",40.7072188,-74.0084296
+"3351","Personal and Professional Services","HSBC",40.7066721,-74.0071571
+"3361","Casual Eating & Takeout","Chipotle",40.7066721,-74.0071571
+"3371","Casual Eating & Takeout","Subway",40.7066721,-74.0071571
+"3381","Casual Eating & Takeout","Dunkin Donuts",40.7066721,-74.0071571
+"3391","Casual Eating & Takeout","Just Salad",40.7066721,-74.0071571
+"3401","Casual Eating & Takeout","Financier Patisserie",40.707157,-74.008337
+"3411","Casual Eating & Takeout","Liberatos Pizza",40.7069636,-74.0079385
+"3421","Shopping","Duane Reade",40.7071307,-74.0077735
+"3431","Shopping","Dijon",40.7071307,-74.0077735
+"3441","Personal and Professional Services","Divesh News",40.7071307,-74.0077735
+"3451","Casual Eating & Takeout","Koyzina Grill",40.7070857,-74.0080807
+"3461","Casual Eating & Takeout","Kafe Neo",40.7071307,-74.0077735
+"3471","Shopping","Gristedes Supermarket",40.7068768,-74.0075787
+"3481","Personal and Professional Services","S.M.S. Industries, Inc.",40.7071307,-74.0077735
+"3491","Shopping","Duane Reade",40.7069397,-74.0090723
+"3501","Personal and Professional Services","NCIC Computer Consulting",40.7068089,-74.0094276
+"3511","Shopping","Kenjo Jewelers",40.7061418,-74.0098382
+"3521","Personal and Professional Services","New York Sports Club",40.7070885,-74.0100839
+"3531","Personal and Professional Services","Chase Bank",40.7078306,-74.0088936
+"3541","Personal and Professional Services","Wall Street Shoe",40.7078306,-74.0088936
+"3551","Personal and Professional Services","TD Bank",40.7077478,-74.0113243
+"3561","Shopping","Border's Books and Music",40.7079445,-74.011103
+"3571","Shopping","14 Wall Street Jewelers",40.7076346,-74.0107748
+"3581","Personal and Professional Services","Shiv Supplies",40.7076346,-74.0107748
+"3591","Personal and Professional Services","Equinox Fitness Club",40.7076346,-74.0107748
+"3601","Shopping","True Religion Brand Jeans",40.7076346,-74.0107748
+"3611","Personal and Professional Services","Equitable Hairstylist",40.7082281,-74.0105245
+"3621","Personal and Professional Services","Valley National Bank",40.7082281,-74.0105245
+"3631","Casual Eating & Takeout","Ashby's",40.7082281,-74.0105245
+"3641","Personal and Professional Services","HSBC",40.7082281,-74.0105245
+"3651","Casual Eating & Takeout","Little Lads Basket Cafe",40.7082281,-74.0105245
+"3661","Personal and Professional Services","Harry & Son Shoe Shine",40.7082281,-74.0105245
+"3671","Casual Eating & Takeout","Manon Cafe",40.7082281,-74.0105245
+"3681","Personal and Professional Services","Travel Network",40.7082281,-74.0105245
+"3691","Personal and Professional Services","Eastern Newsstand",40.7082281,-74.0105245
+"3701","Shopping","Charles Patrick Jewelers",40.7082281,-74.0105245
+"3711","Full Service Dining","The Capital Grille",40.7082281,-74.0105245
+"3721","Personal and Professional Services","Citibank",40.7082281,-74.0105245
+"3731","Personal and Professional Services","Gateway Newstand",40.7086001,-74.0100116
+"3741","Personal and Professional Services","American Express Travel Service",40.708699,-74.011666
+"3751","Full Service Dining","Suspenders Restaurant",40.708699,-74.011666
+"3761","Personal and Professional Services","John Allan's Men's Club",40.7088342,-74.0119611
+"3771","Casual Eating & Takeout","Subway",40.708699,-74.011666
+"3781","Casual Eating & Takeout","Panini & Company",40.708882,-74.0114326
+"3791","Shopping","Men's Wearhouse",40.708882,-74.0114326
+"3801","Personal and Professional Services","Big Apple Copy",40.708882,-74.0114326
+"3811","Casual Eating & Takeout","Starbucks Coffee",40.708882,-74.0114326
+"3821","Personal and Professional Services","Stanley's Cobbler Shop",40.7090457,-74.0119818
+"3831","Casual Eating & Takeout","Big Al's Pizza",40.7089667,-74.011799
+"3841","Full Service Dining","Trinity Place",40.708882,-74.0114326
+"3851","Personal and Professional Services","Ketki Lobby Shop",40.7080974,-74.0131343
+"3861","Shopping","Greenwich Jewelers",40.708015,-74.0130162
+"3871","Shopping","One Way Gift Shop",40.7090605,-74.0121154
+"3881","Casual Eating & Takeout","Masterpiece Pizza",40.7080974,-74.0131343
+"3891","Casual Eating & Takeout","Variety Market",40.7080974,-74.0131343
+"3901","Shopping","City Blossoms",40.7081126,-74.0129994
+"3911","Casual Eating & Takeout","Steven Brown Caterers",40.7084415,-74.012915
+"3921","Casual Eating & Takeout","Manon Cafe",40.7084415,-74.012915
+"3931","Shopping","World Trade Art Gallery",40.7084415,-74.012915
+"3941","Shopping","Stapleton Shoe Company",40.708256,-74.0128748
+"3951","Full Service Dining","O'Hara's Restaurant",40.7094992,-74.0126432
+"3961","Full Service Dining","Ruchi",40.7094992,-74.0126432
+"3971","Casual Eating & Takeout","Steve's Pizza",40.7095464,-74.0120054
+"3981","Personal and Professional Services","J Spa Nails",40.7095464,-74.0120054
+"3991","Casual Eating & Takeout","Charly's",40.7095464,-74.0120054
+"4001","Shopping","NY Souvenir",40.7097007,-74.0122613
+"4011","Casual Eating & Takeout","Pronto Pizza",40.7097007,-74.0122613
+"4021","Casual Eating & Takeout","Ho Yip Chinese Restaurant",40.7095103,-74.0120294
+"4031","Personal and Professional Services","DJ Hair Salon",40.7095103,-74.0120294
+"4041","Casual Eating & Takeout","Burger King",40.7096373,-74.0119117
+"4051","Casual Eating & Takeout","Essex World Cafe",40.7095516,-74.0121261
+"4061","Full Service Dining","Se Ja Meh",40.7276447,-74.0089638
+"4071","Full Service Dining","Moran's",40.7083773,-74.0140466
+"4081","Personal and Professional Services","Trinity Boxing Club NYC",40.7087344,-74.0135876
+"4091","Full Service Dining","Caracello Ristorante",40.7086026,-74.0135991
+"4101","Personal and Professional Services","Rector Dry Cleaners",40.7085336,-74.0136127
+"4111","Casual Eating & Takeout","Subway",40.7085336,-74.0136127
+"4121","Shopping","Thunder Lingerie",40.7083027,-74.0137314
+"4131","Casual Eating & Takeout","Joe's Gourmet",40.7082127,-74.0137685
+"4141","Nightlife","Pussycat Lounge",40.708221,-74.013783
+"4151","Casual Eating & Takeout","Cordato's",40.7347333,-74.0068217
+"4161","Casual Eating & Takeout","Cafe Bravo",40.726984,-74.0090405
+"4171","Casual Eating & Takeout","Budtharasa Thai Food",40.7085747,-74.0139894
+"4181","Full Service Dining","85 West Sports Bar & Grill",40.7127837,-74.0059413
+"4191","Shopping","Gift Shop",40.709512,-74.0144891
+"4201","Shopping","Brooks Brothers",40.7106751,-74.0109644
+"4211","Shopping","Century 21 Department Stores",40.710227,-74.01036
+"4221","Personal and Professional Services","Joseph Tailor Shop",40.7104698,-74.0099819
+"4231","Casual Eating & Takeout","Arome",40.7104989,-74.0101719
+"4241","Shopping","Payless Shoesource",40.7103551,-74.0099008
+"4251","Shopping","Pylones",40.710275,-74.0098713
+"4261","Personal and Professional Services","Tropp Printing Corp.",40.7102341,-74.0099409
+"4271","Shopping","V.I.P. Men's Suits",40.7102341,-74.0099409
+"4281","Shopping","Hallmark Gold Crown",40.7102341,-74.0099409
+"4291","Shopping","Century 21 Department Stores - Ladies Shoes",40.7099484,-74.009894
+"4301","Personal and Professional Services","TSC Training Academy",40.7100191,-74.0101932
+"4311","Casual Eating & Takeout","Bento Nouveau Sushi",40.7100042,-74.0101588
+"4321","Shopping","Michal Golan",40.7099586,-74.0102504
+"4331","Personal and Professional Services","Cortlandt News",40.7099848,-74.0103056
+"4341","Personal and Professional Services","Olga's Salon Spa",40.7100191,-74.0101932
+"4351","Casual Eating & Takeout","Dunkin Donuts",40.7100191,-74.0101932
+"4361","Casual Eating & Takeout","Majestic Pizza",40.7100713,-74.0103149
+"4371","Shopping","21 Jewelry",40.7100191,-74.0101932
+"4381","Shopping","Century 21 Department Stores",40.7105231,-74.0104327
+"4391","Full Service Dining","Federal Cafe",40.7091618,-74.0091709
+"4401","Shopping","Sephora",40.7091841,-74.0100953
+"4411","Personal and Professional Services","Bank of America",40.7091841,-74.0100953
+"4421","Shopping","Modell's",40.7091841,-74.0100953
+"4431","Personal and Professional Services","Showroom Hair Salon",40.7093724,-74.0099748
+"4441","Shopping","Adcomp Systems, Inc.",40.7093724,-74.0099748
+"4451","Casual Eating & Takeout","McDonald's",40.7093724,-74.0099748
+"4461","Casual Eating & Takeout","Broadway Kosher Cafe",40.7093724,-74.0099748
+"4471","Shopping","Maiden Lane Wine & Liquor",40.7095101,-74.0096937
+"4481","Shopping","DeNatale Jewelers",40.7095628,-74.0099212
+"4491","Shopping","T-Mobile",40.7095628,-74.0099212
+"4501","Casual Eating & Takeout","Cafe Exchange",40.7095859,-74.0098153
+"4511","Shopping","Sprint",40.7095628,-74.0099212
+"4521","Casual Eating & Takeout","22 Thai Cuisine",40.7091424,-74.0091285
+"4531","Casual Eating & Takeout","Alfanoose Restaurant",40.7094288,-74.0096432
+"4541","Casual Eating & Takeout","Sushi a La kawa",40.709263,-74.0092397
+"4551","Casual Eating & Takeout","Win Won Chinese",40.7091668,-74.0092924
+"4561","Casual Eating & Takeout","Jou Jou Cafe",40.7090781,-74.0090705
+"4571","Personal and Professional Services","Elysium Hair Salon",40.7090774,-74.0090688
+"4581","Personal and Professional Services","Ann's Nails",40.7090774,-74.0090688
+"4591","Personal and Professional Services","55 Nassau Shoe Repair",40.7090781,-74.0090705
+"4601","Casual Eating & Takeout","Diwan E. Khaas",40.7090346,-74.0091352
+"4611","Shopping","The Greene Grape",40.7088048,-74.009407
+"4621","Full Service Dining","Pound & Pence",40.7088048,-74.009407
+"4631","Personal and Professional Services","101 Newsstand",40.7090035,-74.0089521
+"4641","Casual Eating & Takeout","Starbucks Coffee",40.7088048,-74.009407
+"4651","Casual Eating & Takeout","Maiden Heaven Gourmet",40.7096555,-74.0092063
+"4661","Casual Eating & Takeout","Baoguette",40.7095903,-74.009362
+"4671","Personal and Professional Services","Daniella Helene",40.7094867,-74.0086437
+"4681","Casual Eating & Takeout","Health King",40.7094986,-74.0086743
+"4691","Personal and Professional Services","JD Candy News",40.7094986,-74.0086743
+"4701","Shopping","The Tie Gallery",40.7095579,-74.0086289
+"4711","Shopping","Golden Nugget Jewelers",40.7094727,-74.0085019
+"4721","Shopping","The Vitamin Shoppe",40.7098302,-74.0097546
+"4731","Personal and Professional Services","Downtown Eyebrow Threading",40.7097337,-74.0095729
+"4741","Personal and Professional Services","Capital One Bank",40.7098002,-74.0094839
+"4751","Shopping","Chameleon Comics",40.709754,-74.0095897
+"4761","Shopping","Tower Art Gallery",40.7096823,-74.0094225
+"4771","Shopping","William Barthman Jewelers",40.7098002,-74.0094839
+"4781","Personal and Professional Services","Digi Prints, Inc.",40.7098002,-74.0094839
+"4791","Casual Eating & Takeout","Cafe Toda",40.7099865,-74.0094353
+"4801","Shopping","S&M Universal Jewelery",40.71015,-74.0093828
+"4811","Casual Eating & Takeout","Tokyo Lunch",40.7099328,-74.0091149
+"4821","Shopping","Discount Fragrances",40.71015,-74.0093828
+"4831","Casual Eating & Takeout","Burger King",40.710031,-74.009344
+"4841","Shopping","Easy Spirit",40.710031,-74.009344
+"4851","Personal and Professional Services","Harry's Convenience Store",40.71015,-74.0093828
+"4861","Shopping","5 Star Gift Shop",40.7094986,-74.0086743
+"4871","Personal and Professional Services","Nu Way Shoe Repair",40.7098261,-74.0091249
+"4881","Shopping","Cellular Plus",40.7098261,-74.0091249
+"4891","Casual Eating & Takeout","Maggies Cajun",40.7098261,-74.0091249
+"4901","Casual Eating & Takeout","It's A Pizza",40.7096425,-74.0088952
+"4911","Full Service Dining","Roxy Coffee Shop",40.7096425,-74.0088952
+"4921","Shopping","Mini Centro",40.7092384,-74.0088627
+"4931","Personal and Professional Services","Jacob's Shoe Repair",40.7092677,-74.008897
+"4941","Personal and Professional Services","Candy Nail Salon",40.7092677,-74.008897
+"4951","Casual Eating & Takeout","Friendly Gourmet Pizza",40.7092384,-74.0088627
+"4961","Personal and Professional Services","Sunrise Cleaners",40.7092384,-74.0088627
+"4971","Full Service Dining","Hana",40.7092384,-74.0088627
+"4981","Shopping","Natalie",40.7092384,-74.0088627
+"4991","Casual Eating & Takeout","Papa John's Pizza",40.7093494,-74.0090053
+"5001","Casual Eating & Takeout","Subway",40.7093494,-74.0090053
+"5011","Personal and Professional Services","Atlantic Bank of New York",40.7095144,-74.0090892
+"5021","Shopping","G.D. Jewelry",40.7095144,-74.0090892
+"5031","Shopping","Aerosoles",40.7244945,-73.9826081
+"5041","Shopping","Optima Beauty Supply",40.7096016,-74.008829
+"5051","Shopping","Zeytuna",40.708772,-74.007906
+"5061","Shopping","Godiva Chocolatier",40.7091363,-74.0084933
+"5071","Shopping","Cohen's Fashion Optical",40.7091363,-74.0084933
+"5081","Shopping","American Greetings Store",40.7091363,-74.0084933
+"5091","Personal and Professional Services","KK Hair Salon",40.7077599,-74.0073929
+"5101","Shopping","CF Rutherford & Associates",40.7077599,-74.0073929
+"5111","Personal and Professional Services","KK Salon",40.7077599,-74.0073929
+"5121","Casual Eating & Takeout","Lane Cafe",40.7077599,-74.0073929
+"5131","Personal and Professional Services","Hana Nails",40.7077599,-74.0073929
+"5141","Personal and Professional Services","Dick's Cut Rate Hardware Inc.",40.7077005,-74.0071603
+"5151","Full Service Dining","Jim Brady's",40.7077599,-74.0073929
+"5161","Casual Eating & Takeout","Taz Cafe",40.7079777,-74.0076891
+"5171","Full Service Dining","Lemongrass Grill",40.7079777,-74.0076891
+"5181","Full Service Dining","The Libertine",40.7078871,-74.0071031
+"5191","Personal and Professional Services","Complete Body Development",40.7081429,-74.0068413
+"5201","Personal and Professional Services","Tower Cleaners",40.7081429,-74.0068413
+"5211","Shopping","John Street Florist",40.7083395,-74.0071629
+"5221","Personal and Professional Services","Citibank",40.7083395,-74.0071629
+"5231","Casual Eating & Takeout","Starbucks Coffee",40.7083395,-74.0071629
+"5241","Shopping","Sleepy's",40.7075142,-74.007332
+"5251","Shopping","La Petite Cave",40.7075142,-74.007332
+"5261","Full Service Dining","Giardino D'oro",40.7075608,-74.0072267
+"5271","Casual Eating & Takeout","Swich",40.7075142,-74.007332
+"5281","Personal and Professional Services","Lee Custom Tailor, Inc.",40.7077599,-74.0073929
+"5291","Personal and Professional Services","Sovereign Bank",40.7073585,-74.0069621
+"5301","Full Service Dining","Harry's Italian",40.7073585,-74.0069621
+"5311","Personal and Professional Services","Downtown Dry Cleaner",40.7074594,-74.0058924
+"5321","Shopping","Fulton Street Art Gallery Inc.",40.7074594,-74.0058924
+"5331","Full Service Dining","Andrews Coffee Shop",40.7074594,-74.0058924
+"5341","Personal and Professional Services","MNS News",40.7074594,-74.0058924
+"5351","Casual Eating & Takeout","Bon Chon Chicken",40.7076939,-74.006235
+"5361","Casual Eating & Takeout","Lenny's Deli",40.7076828,-74.0061835
+"5371","Casual Eating & Takeout","Cafe Sage",40.7076828,-74.0061835
+"5381","Full Service Dining","Open Door Gastropub",40.7076828,-74.0061836
+"5391","Personal and Professional Services","Angel Body Work",40.7076788,-74.0059427
+"5401","Casual Eating & Takeout","Subway",40.7076788,-74.0059427
+"5411","Casual Eating & Takeout","Goodburger",40.7070495,-74.0067067
+"5421","Casual Eating & Takeout","Pret A Manger",40.7070495,-74.0067067
+"5431","Personal and Professional Services","Crunch",40.7079105,-74.0064832
+"5441","Personal and Professional Services","Nail 125",40.7066092,-74.0062499
+"5451","Shopping","Dress Barn",40.7066092,-74.0062499
+"5461","Casual Eating & Takeout","The Best of New York Food",40.7064287,-74.0060591
+"5471","Shopping","T-Mobile",40.7066092,-74.0062499
+"5481","Shopping","Marty's Photo & Electronics",40.7066092,-74.0062499
+"5491","Full Service Dining","Pearl Street Diner",40.7069302,-74.0061787
+"5501","Personal and Professional Services","New York Sports Club",40.7066957,-74.0057358
+"5511","Shopping","Exquisite Creations",40.7034156,-74.0106735
+"5521","Casual Eating & Takeout","Burritoville",40.7034441,-74.0107641
+"5531","Full Service Dining","Zigolini's",40.7034852,-74.0108313
+"5541","Personal and Professional Services","Chase Bank",40.7061549,-74.0056672
+"5551","Casual Eating & Takeout","Flavors Cafe",40.7063636,-74.0051605
+"5561","Personal and Professional Services","Bank of America ATM",40.7063636,-74.0051605
+"5571","Shopping","Carmine & Arthur's Clothier",40.7063636,-74.0051605
+"5581","Casual Eating & Takeout","Europa",40.706937,-74.0044856
+"5591","Personal and Professional Services","Galaxy Lobby Inc.",40.7068739,-74.0043844
+"5601","Shopping","Abercrombie & Fitch",40.7068739,-74.0043844
+"5611","Shopping","WirelessRUS",40.7074826,-74.0047203
+"5621","Personal and Professional Services","NYC Check Express",40.7074826,-74.0047203
+"5631","Shopping","Duane Reade",40.7074826,-74.0047203
+"5641","Casual Eating & Takeout","Plaza Deli",40.707361,-74.004762
+"5651","Shopping","Blue & Red NY, Inc.",40.7080914,-74.0047446
+"5661","Shopping","Seaport Jewelry",40.7080914,-74.0047446
+"5671","Personal and Professional Services","Calderon News Store",40.7080914,-74.0047446
+"5681","Personal and Professional Services","Calderon Locksmith",40.7080914,-74.0047446
+"5691","Casual Eating & Takeout","Beta Coffee",40.7080914,-74.0047446
+"5701","Shopping","Rainbow",40.7078755,-74.0047447
+"5711","Personal and Professional Services","Avi Golan Hair Salon",40.7077647,-74.0055821
+"5721","Personal and Professional Services","Salon 25",40.7077647,-74.0055821
+"5731","Personal and Professional Services","Hard Copy Business Center",40.7077647,-74.0055821
+"5741","Casual Eating & Takeout","Backyard Chicken",40.707528,-74.0053761
+"5751","Casual Eating & Takeout","Cafe Gusto",40.7077647,-74.0055821
+"5761","Casual Eating & Takeout","Wall Street Caterers",40.707528,-74.0053761
+"5771","Nightlife","The Iron Horse",40.7081033,-74.0049296
+"5781","Casual Eating & Takeout","McDonald's",40.7082556,-74.0049104
+"5791","Nightlife","The Hook & Ladder Bar",40.7071791,-74.0050148
+"5801","Casual Eating & Takeout","Fulton Chef",40.708721,-74.0053609
+"5811","Casual Eating & Takeout","Dunkin Donuts",40.708721,-74.0053609
+"5821","Casual Eating & Takeout","Ruben's Empanadas",40.708721,-74.0053609
+"5831","Casual Eating & Takeout","L&L Hawaiian Barbeque",40.708721,-74.0053609
+"5841","Shopping","Jubilee Market Place",40.7083083,-74.0060007
+"5851","Shopping","Duane Reade",40.7083083,-74.0060007
+"5861","Casual Eating & Takeout","The Country Kebab",40.708933,-74.0055381
+"5871","Shopping","Barua Gift Shop",40.7088771,-74.0055344
+"5881","Personal and Professional Services","Fulton Supply Corp.",40.7088892,-74.0054773
+"5891","Casual Eating & Takeout","Lisa's Pizza",40.708933,-74.0055381
+"5901","Casual Eating & Takeout","Kosher Luncheonette",40.7084956,-74.0051562
+"5911","Personal and Professional Services","Shoe Repair and Shine",40.7083857,-74.0050776
+"5921","Shopping","Gift Shop",40.7084956,-74.0051562
+"5931","Personal and Professional Services","HK News",40.7084956,-74.0051562
+"5941","Shopping","Eden Flowers",40.7084956,-74.0051562
+"5951","Personal and Professional Services","New Field Yoga",40.708504,-74.0053638
+"5961","Personal and Professional Services","Cliff Street Cleaners",40.7084449,-74.0056664
+"5971","Casual Eating & Takeout","Corbet & Conley Caterers",40.7084449,-74.0056664
+"5981","Shopping","Martin Busch Jewelers",40.7085072,-74.006442
+"5991","Shopping","4G Data Systems, Inc.",40.7085072,-74.006442
+"6001","Casual Eating & Takeout","Yip's Oriental Express",40.709193,-74.0063477
+"6011","Shopping","Duane Reade",40.7091155,-74.0064525
+"6021","Casual Eating & Takeout","Texas Rotisserie & Grill",40.7092038,-74.0061936
+"6031","Full Service Dining","Liam's Pub",40.7091764,-74.0059971
+"6041","Shopping","My Optician",40.7091006,-74.0058365
+"6051","Casual Eating & Takeout","Goodies Restauraunt",40.7091006,-74.0058365
+"6061","Personal and Professional Services","Spa 88",40.7091006,-74.0058365
+"6071","Personal and Professional Services","Taslima Newsstand",40.7091006,-74.0058365
+"6081","Personal and Professional Services","Fulton Hair Cutter",40.7091006,-74.0058365
+"6091","Casual Eating & Takeout","Bennie's Thai Restaurant",40.7091006,-74.0058365
+"6101","Personal and Professional Services","Rafael's Dry Cleaners",40.7091006,-74.0058365
+"6111","Casual Eating & Takeout","Tandoor Palace",40.7091006,-74.0058365
+"6121","Casual Eating & Takeout","Seattle Cafe & Grill",40.7087737,-74.0067282
+"6131","Personal and Professional Services","Kinko's",40.7087737,-74.0067282
+"6141","Personal and Professional Services","HSBC",40.7087737,-74.0067282
+"6151","Shopping","Gem Story",40.7096395,-74.0070558
+"6161","Shopping","Fulton Wine and Liquor",40.7096395,-74.0070558
+"6171","Shopping","Zoom Wireless",40.709556,-74.0068345
+"6181","Casual Eating & Takeout","Zibetto Espresso Bar",40.709556,-74.0068345
+"6191","Casual Eating & Takeout","Patuca",40.7094671,-74.0079266
+"6201","Shopping","Bronte Men's Wear",40.7094671,-74.0079266
+"6211","Shopping","Samuel's Hats",40.7096998,-74.0082353
+"6221","Casual Eating & Takeout","Zaitzeff",40.7095755,-74.008227
+"6231","Personal and Professional Services","Eyebrow Zone Salon",40.7094908,-74.0081836
+"6241","Casual Eating & Takeout","Ruben's Empanadas",40.7095891,-74.0081295
+"6251","Shopping","37 Gifts",40.7094908,-74.0081836
+"6261","Shopping","T.O.C.",40.7095891,-74.0081295
+"6271","Shopping","Manhattan Fortune Jewelry",40.7094669,-74.0081372
+"6281","Shopping","Parklane Apparel",40.7095891,-74.0081295
+"6291","Shopping","De Janeiro",40.7097187,-74.0081109
+"6301","Shopping","Ralph's Discount City",40.7095755,-74.008227
+"6311","Shopping","Dor L' Dor",40.7098525,-74.0079555
+"6321","Casual Eating & Takeout","Golden Krust Patties",40.7098525,-74.0079555
+"6331","Shopping","T-Mobile",40.7098525,-74.0079555
+"6341","Shopping","Know Style, Inc.",40.7098525,-74.0079555
+"6351","Casual Eating & Takeout","Soma By Nature",40.7093249,-74.0071476
+"6361","Personal and Professional Services","Liberty Travel",40.7099465,-74.0078503
+"6371","Shopping","Nassau Electronics",40.7100124,-74.0077645
+"6381","Shopping","Lilly's Boutique",40.7100041,-74.0078623
+"6391","Personal and Professional Services","Why Pay More?",40.7100567,-74.007649
+"6401","Shopping","Time Piece City",40.7100567,-74.007649
+"6411","Personal and Professional Services","Premier Lock & Security",40.7100567,-74.007649
+"6421","Personal and Professional Services","Best Color Photo",40.710078,-74.007679
+"6431","Casual Eating & Takeout","Terrace Fish & Chip",40.7100567,-74.007649
+"6441","Shopping","S & O Gift Shop",40.7100567,-74.007649
+"6451","Shopping","Wow Style Fashions",40.7099626,-74.0076324
+"6461","Shopping","Foot Mart",40.7099261,-74.0075528
+"6471","Casual Eating & Takeout","Subway",40.7098866,-74.0074777
+"6481","Casual Eating & Takeout","Carvel",40.7098866,-74.0074777
+"6491","Personal and Professional Services","The UPS Store",40.7098866,-74.0074777
+"6501","Shopping","Stylz",40.7098786,-74.0073379
+"6511","Shopping","Radio Shack",40.7098452,-74.0074015
+"6521","Casual Eating & Takeout","Starbucks Coffee",40.7102188,-74.0080711
+"6531","Personal and Professional Services","Bank of America ATM",40.7102188,-74.0080711
+"6541","Shopping","Nassau Fulton Optical",40.7101444,-74.0079768
+"6551","Shopping","General Nutrition Center",40.7103454,-74.0081849
+"6561","Personal and Professional Services","Au Hair",40.7097579,-74.0085458
+"6571","Shopping","Duane Reade",40.710034,-74.008657
+"6581","Personal and Professional Services","Uma Newsstand",40.710034,-74.008657
+"6591","Nightlife","John Street Bar & Grill",40.710034,-74.008657
+"6601","Full Service Dining","Les Halles Downtown",40.7100313,-74.0087452
+"6611","Casual Eating & Takeout","Wendy's",40.7101293,-74.0081504
+"6621","Personal and Professional Services","K.C. Barber Shop",40.7103988,-74.008568
+"6631","Personal and Professional Services","Wagner Tailoring & Alterations-Booth",40.7103988,-74.008568
+"664","Personal and Professional Services","The Essences Beauty Salon",40.7103988,-74.008568
+"665","Personal and Professional Services","Nail & Wax",40.7103988,-74.008568
+"666","Shopping","Baba Gift",40.7103988,-74.008568
+"667","Casual Eating & Takeout","Cafe Tomato",40.710357,-74.0084865
+"668","Casual Eating & Takeout","Caruso's Pizza and Pasta",40.71031,-74.0084158
+"669","Shopping","Solution Beauty Source",40.7103407,-74.0083273
+"670","Shopping","New York & Co.",40.7100808,-74.0082006
+"671","Shopping","De Janeiro Too",40.7098812,-74.0084069
+"672","Shopping","Eye To Eye Vision Center",40.7100077,-74.0082675
+"673","Personal and Professional Services","Spring Thyme Wellness Spa",40.7098812,-74.0084069
+"674","Personal and Professional Services","La Mode Cleaners",40.7098812,-74.0084069
+"675","Full Service Dining","The Diner",40.7098812,-74.0084069
+"676","Shopping","Nassau Jewelry",40.7098812,-74.0084069
+"677","Personal and Professional Services","Max Cleaners",40.7097579,-74.0085458
+"678","Shopping","Evelyn's Chocolates",40.7097579,-74.0085458
+"679","Personal and Professional Services","Alex Tailor Shop",40.7097579,-74.0085458
+"680","Personal and Professional Services","My Convenience",40.7097579,-74.0085458
+"681","Personal and Professional Services","Yung Nail Salon",40.7097579,-74.0085458
+"682","Casual Eating & Takeout","Blimpie",40.7095181,-74.0084591
+"683","Casual Eating & Takeout","Energy Kitchen",40.709695,-74.0083878
+"684","Casual Eating & Takeout","Starbucks Coffee",40.7108825,-74.0098505
+"685","Nightlife","Liquid Assets at the Millenium Hilton Hotel",40.7111522,-74.0103521
+"686","Full Service Dining","Church & Dey Restaurant",40.7127837,-74.0059413
+"687","Community Resources","US Post Office-Church Street Station",40.7127235,-74.0106567
+"688","Personal and Professional Services","New York Sports Club",40.7117077,-74.0086068
+"689","Shopping","AT&T",40.7117077,-74.0086068
+"690","Shopping","Staples",40.7117077,-74.0086068
+"691","Visitor Services","Travelex Currency Services Inc.",40.7121386,-74.0098201
+"692","Personal and Professional Services","Jean Louis David Salon",40.7121501,-74.0098273
+"693","Shopping","Renaissance Fine Jewelers II",40.7119222,-74.0084459
+"694","Personal and Professional Services","PrintFacility.com",40.7119222,-74.0084459
+"695","Personal and Professional Services","Quality Duplicating Services",40.7119222,-74.0084459
+"696","Shopping","Illusions of Broadway",40.7119222,-74.0084459
+"697","Personal and Professional Services","FedEx Office",40.7121336,-74.0086942
+"698","Personal and Professional Services","Continental Shoe Repair",40.7119222,-74.0084459
+"699","Casual Eating & Takeout","Oliva Gourmet",40.7119222,-74.0084459
+"700","Casual Eating & Takeout","Naturally Delicious",40.7122441,-74.0091664
+"701","Shopping","Cohen's Fashion Optical",40.7119222,-74.0084459
+"702","Shopping","Smoke Shop",40.7120459,-74.0095148
+"703","Casual Eating & Takeout","Stage Door Deli",40.7121084,-74.0096955
+"704","Personal and Professional Services","The Pilatium",40.7104617,-74.0077673
+"705","Shopping","Tansey Tang Cultured Pearl Jewelry and Asian Gifts",40.7104929,-74.0077594
+"706","Shopping","Fine Leather Collection",40.7104929,-74.0077594
+"707","Personal and Professional Services","Perfect Eyes Thread Salon",40.710546,-74.0076194
+"708","Shopping","Designer Promise",40.7105774,-74.0077901
+"709","Personal and Professional Services","Chase Bank",40.7109087,-74.0088497
+"710","Personal and Professional Services","Majestic Beauty Salon",40.7106473,-74.0076802
+"711","Personal and Professional Services","Solomon Cleaners",40.7106473,-74.0076802
+"712","Personal and Professional Services","Uriel Shoe Repair",40.7106473,-74.0076802
+"713","Shopping","metro PCS",40.7104929,-74.0077594
+"714","Shopping","Fusion Wireless",40.7104929,-74.0077594
+"715","Casual Eating & Takeout","Dunkin Donuts",40.7104617,-74.0077673
+"716","Shopping","Duane Reade",40.7106433,-74.0082444
+"717","Casual Eating & Takeout","Au Bon Pain",40.7108839,-74.0083897
+"718","Personal and Professional Services","Eyebrow Threading Salon, Inc.",40.7105419,-74.0079008
+"719","Casual Eating & Takeout","Sophie's Cuban Cuisine",40.7105419,-74.0079008
+"720","Shopping","Mr. Closeout",40.710648,-74.0079949
+"721","Casual Eating & Takeout","Popeye's Chicken & Biscuits",40.7106393,-74.007971
+"722","Personal and Professional Services","Lucille Roberts",40.7106393,-74.007971
+"723","Personal and Professional Services","Weinstein & Holtzman Hardware",40.7113385,-74.0073373
+"724","Shopping","J&R Music and Computer World",40.7115513,-74.0072959
+"725","Shopping","GS Smokers Inc.",40.7114791,-74.0069766
+"726","Shopping","Penguini Men's Wear",40.7107548,-74.0074472
+"727","Shopping","H & M Art Gallery of Downtown",40.7107548,-74.0074472
+"728","Casual Eating & Takeout","Sandwich House",40.7110027,-74.0077002
+"729","Casual Eating & Takeout","Pita Express",40.7110299,-74.0077811
+"730","Shopping","J&R Office and Computer World",40.7111576,-74.0078405
+"731","Shopping","Duval International Furniture Gallery",40.7099264,-74.0065609
+"732","Casual Eating & Takeout","Circa NY",40.7099264,-74.0065609
+"733","Personal and Professional Services","Shoetrician Shoe Repair",40.7101833,-74.0070836
+"734","Personal and Professional Services","Styling Haircutters",40.7101833,-74.0070836
+"735","Personal and Professional Services","Papaya",40.7102248,-74.0071533
+"736","Shopping","CVS",40.7102655,-74.0073925
+"737","Shopping","Strawberry",40.7098037,-74.0068718
+"738","Shopping","Bolton's",40.7098037,-74.0068718
+"739","Casual Eating & Takeout","Chipotle",40.7099264,-74.0065609
+"740","Personal and Professional Services","Spring Nail Spa N.Y.",40.7101052,-74.0069297
+"741","Shopping","American Stamp",40.7101432,-74.0070013
+"742","Shopping","Cables & Chips Inc.",40.7101432,-74.0070013
+"743","Personal and Professional Services","Nova Offset Corp.",40.7104705,-74.0068066
+"744","Personal and Professional Services","Abacus Federal Savings Bank",40.71074,-74.0070325
+"745","Nightlife","Nassau Bar",40.7107613,-74.0068531
+"746","Shopping","Flight Club NY",40.710795,-74.0068
+"747","Shopping","Prato Men's Wear",40.7108429,-74.006767
+"748","Shopping","The Happy Foot Shoe Store",40.7108897,-74.0067367
+"749","Shopping","Downtown Pharmacy",40.7102803,-74.0059881
+"750","Shopping","Omega Jewelers",40.7110196,-74.0065631
+"751","Casual Eating & Takeout","Dunkin Donuts",40.7110196,-74.0065631
+"752","Full Service Dining","The Beekman Pub",40.7109286,-74.0062962
+"753","Shopping","Petland Discount",40.7110196,-74.0065631
+"754","Shopping","The Silk Shop",40.7110196,-74.0065631
+"755","Shopping","Thriftway Beekman Pharmacy",40.7107602,-74.0063129
+"756","Shopping","Lot-Less Closeouts",40.7094535,-74.0058998
+"757","Personal and Professional Services","Royal Barber Shop",40.7094535,-74.0058998
+"758","Casual Eating & Takeout","Cafe Seaport",40.7095328,-74.0057846
+"759","Shopping","Pride Optical",40.7095328,-74.0057846
+"760","Casual Eating & Takeout","Rosella's Pizza",40.7101089,-74.0056654
+"761","Casual Eating & Takeout","Dante's Gourmet Foods",40.7101613,-74.0056142
+"762","Casual Eating & Takeout","Panini & Company",40.7102537,-74.00562
+"763","Full Service Dining","Battery Gardens",40.7127837,-74.0059413
+"764","","Lower Manhattan Cultural Council",40.7066092,-74.0062499
+"765","","Downtown Hair Studio",40.7127837,-74.0059413
+"766","","Seaport Podiatry",40.7099626,-74.0076324
+"767","Personal and Professional Services","Primary Consulting Services, Ltd.",40.7110196,-74.0065631
+"768","","Plaza Cafe And Catering Inc",40.7075142,-74.007332
+"769","","Tbta Battery Park Garage",40.7074243,-74.0143034
+"770","Casual Eating & Takeout","Picnick",40.7032775,-74.0170279
+"771","","Lower Manhattan Construction Command Center",40.7096863,-74.0108873
+"772","","Candy's Quality Cleaners",40.7144217,-74.009644
