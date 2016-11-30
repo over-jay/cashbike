@@ -50,8 +50,9 @@
 #   addGeoJSON(jsonFile)
 # 
 # 
-install.packages("leaflet")
-install.packages("leaflet")
+
+install.packages('htmlwidgets') 
+install.packages("leaflet", type='source')
 library(leaflet)
 install.packages("magrittr")
 library(rgdal)
