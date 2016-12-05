@@ -73,7 +73,7 @@ df_map2 <- subset(df_map, lon >= -74.0513 & lon < -73.8298 & lat >= 40.6788 & la
 #leaflet
 library(leaflet)
 pal <- colorFactor(c("navy", "red"), domain = c("restaurant", "station"))
-m <- leaflet(data = df_map2)  %>% addTiles() %>% addCircleMarkers(~lon, ~lat,color = ~pal(type), popup = ~as.character(name),clusterOptions = markerClusterOptions())
+m <- leaflet(data = df_map2)  %>% addTiles() %>% addCircleMarkers(~lon, ~lat,color = ~pal(type), popup = ~as.character(name),clusterOptions = markerClusterOptions()) %>% addLegend("bottomright",pal = pal, values = ~type)
 m
 
 
