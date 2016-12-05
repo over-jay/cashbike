@@ -57,12 +57,21 @@ library(leaflet)
 install.packages("magrittr")
 library(rgdal)
 library(magrittr)
-leaflet() %>% 
-   addTiles(urlTemplate = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>') %>% 
-   setView(-73.97125, 40.78306, zoom=10) 
+leaflet() %>%    addTiles(urlTemplate = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png",            attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>')   %>%    setView(-73.97125, 40.78306, zoom=10) 
+
+leaflet() %>%
+  setView(-97.3606922, 32.7084083, zoom = 16) %>%
+  addTiles(urlTemplate = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", 
+           attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>')
+
+
+leaflet() %>%
+  setView(-97.3606922, 32.7084083, zoom = 16) %>%
+  addTiles()
 
 # 
 # library(rgdal)
+
 # "GeoJSON" %in% ogrDrivers()$name
 # map = readOGR(jsonFile, "OGRGeoJSON")
 # plot (map)

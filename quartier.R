@@ -1,15 +1,49 @@
+#install.packages('htmlwidgets') 
+#install.packages("leaflet", type='source')
+library(leaflet)
+#install.packages("magrittr")
+library(rgdal)
+library(magrittr)
+
 require(ggmap)
 library(jsonlite)
 
- 
 
 # Stations location
 
-json_file <- "./data/stations.json"
+json_file <- "./data/ntashapes.geo.json"
 df_data  <- fromJSON(json_file, flatten=TRUE)
 # str(df_data)
 # head(df_data)
-df_data<-df_data[-1] # suppression de la timestamp exec
+# df_data$geometry.coordinates
+
+################################
+
+
+# From http://data.okfn.org/data/datasets/geo-boundaries-world-110m
+geojson <- readLines(json_file, warn = FALSE) %>%
+  paste(collapse = "\n") %>%
+  fromJSON(simplifyVector = FALSE)
+
+# Default styles for all features
+geojson$style = list(
+  weight = 1,
+  color = "#055555",
+  opacity = 1,
+  fillOpacity = 0.8
+)
+
+# Add the now-styled GeoJSON object to the map
+leaflet() %>% addTiles()   %>%    setView(-73.97125, 40.73306, zoom=10) %>% addGeoJSON(geojson)
+
+################################
+# topoData <- readLines("./jerome/us-10m.json") %>% paste(collapse = "\n")
+# 
+# leaflet() %>% setView(lng = -98.583, lat = 39.833, zoom = 3) %>%
+#   addTiles() %>%
+#   addTopoJSON(topoData, weight = 1, color = "#444444", fill = FALSE)
+################################
+
 
 # summary(df_data)
 # str(df_data)
