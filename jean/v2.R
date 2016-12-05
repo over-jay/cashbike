@@ -60,6 +60,16 @@ names(df_tmp2)[names(df_tmp2)=="dba"] <- "name"
 df_tmp2<-df_tmp2[,c(4,1,3,2)]
 
 
+#Map
+df_map <- rbind(df_tmp1,df_tmp2)
+df_map$lat_num <- as.numeric(df_map$lat)
+df_map$lon_num <- as.numeric(df_map$lon)
+df_map <- df_map[,c(-3,-4)]
+names(df_map)[names(df_map)=="lat_num"] <- "lat"
+names(df_map)[names(df_map)=="lon_num"] <- "lon"
+df_map2 <- subset(df_map, lon >= -74.0513 & lon < -73.8298 & lat >= 40.6788 & lat < 40.8847)
+
+
 #leaflet
 library(leaflet)
 pal <- colorFactor(c("navy", "red"), domain = c("restaurant", "station"))
