@@ -92,3 +92,24 @@ head(sort(trowsum, decreasing=TRUE),34)
   trajet<-  BIKE %>%group_by (start.station.id, end.station.id) %>% summarize(n=n())   %>% arrange (desc(n))
 trajet
 
+dim(trajet)
+# renverse les trajets pour que l'aller et le retour compte autant
+trajet2<-trajet[,c(2,1,3)]
+trajetall <- rbind(trajet,trajet2)
+
+# quelles station on le plus de deport + arrivée
+  trajetall<-trajetall[,-2,]
+summary(trajetall)
+
+trajetsum<- aggregate(x= trajetall$n, by= list((trajetall$start.station.id))
+                                             , FUN = sum)  
+
+# pair de trajets classés par nombre de transport A ou R
+trajetsum<- trajetsum [rev(order(trajetsum$x)),]
+# plus que 200 par exemple (il y en a 50)
+trajetsum[trajetsum$x> 200,1]
+# donc 50 stations qui on plus de 200 depart et arrivées
+tops<-trajetsum[trajetsum$x> 200,1]
+
+
+
