@@ -1,4 +1,5 @@
 #Chargement des données
+
 BIKE <- read.csv('20160915-matin.csv', sep=";", head=TRUE, as.is=TRUE)
 
 head(BIKE,5)
