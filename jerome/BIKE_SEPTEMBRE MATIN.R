@@ -1,6 +1,7 @@
 #Chargement des données
 # fichier des trajets
-# on va prendre le 22/9/2016 and plus du 15/9/2016
+# on va prendre le 20/9/2016 and plus du 15/9/2016
+# source de la donnée : https://s3.amazonaws.com/tripdata/201609-citibike-tripdata.zip
 
 BIKE <- read.csv('./jerome/201609-citibike-tripdata.csv', sep=",", head=TRUE, as.is=TRUE)
 
